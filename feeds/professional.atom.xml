@@ -1,12 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Jose Dias</title><link href="http://jdiasn.github.io/" rel="alternate"></link><link href="http://jdiasn.github.io/feeds/professional.atom.xml" rel="self"></link><id>http://jdiasn.github.io/</id><updated>2015-03-17T22:24:00-03:00</updated><entry><title>Aerosol Data Validation on Brazil</title><link href="http://jdiasn.github.io/aot-validation.html" rel="alternate"></link><updated>2015-03-17T22:24:00-03:00</updated><author><name>Jose Dias</name></author><id>tag:jdiasn.github.io,2015-03-17:aot-validation.html</id><summary type="html">&lt;p&gt;On Oct. 28, 2011 the Suomi National Polar-orbiting Partnership spacecraft was launched. It is
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Jose Dias</title><link href="http://jdiasn.github.io/" rel="alternate"></link><link href="http://jdiasn.github.io/feeds/professional.atom.xml" rel="self"></link><id>http://jdiasn.github.io/</id><updated>2015-04-12T23:41:00-03:00</updated><entry><title>Aerosol Data Validation on Brazil</title><link href="http://jdiasn.github.io/aot-validation.html" rel="alternate"></link><updated>2015-04-12T23:41:00-03:00</updated><author><name>Jose Dias</name></author><id>tag:jdiasn.github.io,2015-04-12:aot-validation.html</id><summary type="html">&lt;p&gt;On Oct. 28, 2011 the Suomi National Polar-orbiting Partnership spacecraft was launched. It is
 a result of mutual cooperation between NASA and NOAA. This spacecraft is composed by five sensors
 to monitor Earth System. One of them is Visible Infrared Imaging Radiometer Suite (&lt;a class="reference external" href="http://npp.gsfc.nasa.gov/viirs.html"&gt;VIIRS&lt;/a&gt;). One
 possible utility is to monitor Aerosol Optical Thickness.&lt;/p&gt;
 &lt;p&gt;In Brazil, the National Institute For Space Research is data receiver of environmental satellite
 data. In particular, my job is to evaluate performance of Aerosol Optical Thickness (AOT) on
-the Brazil. The hart of procedure is to compare AOT retrieved by VIIRS with AOT measured in
-AERONET sites and with AOT retrieved by &lt;a class="reference external" href="http://modis.gsfc.nasa.gov/about/"&gt;MODIS&lt;/a&gt; sensor.&lt;/p&gt;
+the Brazil. The core of procedure is to compare AOT retrieved by VIIRS with AOT measured in
+AERONET sites and with AOT retrieved by &lt;a class="reference external" href="http://modis.gsfc.nasa.gov/about/"&gt;MODIS&lt;/a&gt; sensor. This project is under supervise of Dr.
+&lt;a class="reference external" href="http://lattes.cnpq.br/2921337850760630"&gt;Sievert&lt;/a&gt;.&lt;/p&gt;
 &lt;img alt="" class="align-right" src="http://gauss.geofisica.ufrn.br/%7Eionosfera/zedias/aot/edrAnalyses/spatialAverage/diff201406.png" style="width: 480.0px; height: 360.0px;" /&gt;
 &lt;p&gt;The figure above shows spatial difference for VIIRS and MODIS AOT data on June, 2014.
 The result collection is hosted in &lt;a class="reference external" href="http://gauss.geofisica.ufrn.br/~ionosfera/zedias/aot/"&gt;AOT Results&lt;/a&gt;.&lt;/p&gt;
