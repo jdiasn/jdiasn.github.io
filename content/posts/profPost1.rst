@@ -1,6 +1,6 @@
 Aerosol Data Validation on Brazil
 #################################
-:date: 2015-03-17 22:24
+:date: 2016-04-12 23:41
 :author: Jose Dias
 :category: Professional
 :slug: aot-validation
@@ -12,8 +12,9 @@ possible utility is to monitor Aerosol Optical Thickness.
 
 In Brazil, the National Institute For Space Research is data receiver of environmental satellite
 data. In particular, my job is to evaluate performance of Aerosol Optical Thickness (AOT) on 
-the Brazil. The hart of procedure is to compare AOT retrieved by VIIRS with AOT measured in 
-AERONET sites and with AOT retrieved by `MODIS`_ sensor.
+the Brazil. The core of procedure is to compare AOT retrieved by VIIRS with AOT measured in 
+AERONET sites and with AOT retrieved by `MODIS`_ sensor. This project is under supervise of Dr.
+`Sievert`_. 
 
 
 .. image:: http://gauss.geofisica.ufrn.br/%7Eionosfera/zedias/aot/edrAnalyses/spatialAverage/diff201406.png
@@ -31,3 +32,5 @@ The result collection is hosted in `AOT Results`_.
 .. _VIIRS: http://npp.gsfc.nasa.gov/viirs.html
 
 .. _MODIS: http://modis.gsfc.nasa.gov/about/
+
+.. _Sievert: http://lattes.cnpq.br/2921337850760630
