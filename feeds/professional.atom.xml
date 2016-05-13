@@ -1,5 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Jose Dias</title><link href="http://jdiasn.github.io/" rel="alternate"></link><link href="http://jdiasn.github.io/feeds/professional.atom.xml" rel="self"></link><id>http://jdiasn.github.io/</id><updated>2016-04-12T23:41:00-03:00</updated><entry><title>Aerosol Data Validation on Brazil</title><link href="http://jdiasn.github.io/aot-validation.html" rel="alternate"></link><updated>2016-04-12T23:41:00-03:00</updated><author><name>Jose Dias</name></author><id>tag:jdiasn.github.io,2016-04-12:aot-validation.html</id><summary type="html">&lt;p&gt;On Oct. 28, 2011 the Suomi National Polar-orbiting Partnership spacecraft was launched. It is
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Jose Dias</title><link href="http://jdiasn.github.io/" rel="alternate"></link><link href="http://jdiasn.github.io/feeds/professional.atom.xml" rel="self"></link><id>http://jdiasn.github.io/</id><updated>2016-04-30T20:29:00-03:00</updated><entry><title>AERONET on Brazil</title><link href="http://jdiasn.github.io/aeronet-brazil.html" rel="alternate"></link><updated>2016-04-30T20:29:00-03:00</updated><author><name>Jose Dias</name></author><id>tag:jdiasn.github.io,2016-04-30:aeronet-brazil.html</id><summary type="html">&lt;p&gt;Actually, on Brazil there are nine AERONET station in operation. Five from these stations are
+placed in Amazon Region and the four others are spread out over remaining territory. The AOT
+data measured may be classified like level 1.5 and 2.0. This classification is associated with
+algorithm applied to process data.&lt;/p&gt;
+&lt;img alt="" class="align-right" src="http://gauss.geofisica.ufrn.br/~ionosfera/zedias/aot/stationMap.png" style="width: 640.0px; height: 480.0px;" /&gt;
+&lt;p&gt;In figure, the circles indicates where each station is placed. The yellow and green colors
+are used to indicate station with data level 1.5 and 2.0 respectively.&lt;/p&gt;
+</summary></entry><entry><title>Aerosol Data Validation on Brazil</title><link href="http://jdiasn.github.io/aot-validation.html" rel="alternate"></link><updated>2016-04-12T23:41:00-03:00</updated><author><name>Jose Dias</name></author><id>tag:jdiasn.github.io,2016-04-12:aot-validation.html</id><summary type="html">&lt;p&gt;On Oct. 28, 2011 the Suomi National Polar-orbiting Partnership spacecraft was launched. It is
 a result of mutual cooperation between NASA and NOAA. This spacecraft is composed by five sensors
 to monitor Earth System. One of them is Visible Infrared Imaging Radiometer Suite (&lt;a class="reference external" href="http://npp.gsfc.nasa.gov/viirs.html"&gt;VIIRS&lt;/a&gt;). One
 possible utility is to monitor Aerosol Optical Thickness.&lt;/p&gt;
