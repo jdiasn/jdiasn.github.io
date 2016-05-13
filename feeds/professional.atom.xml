@@ -5,7 +5,7 @@ data measured may be classified like level 1.5 and 2.0. This classification is a
 algorithm applied to process data.&lt;/p&gt;
 &lt;img alt="" class="align-right" src="http://gauss.geofisica.ufrn.br/~ionosfera/zedias/aot/stationMap.png" style="width: 640.0px; height: 480.0px;" /&gt;
 &lt;p&gt;In figure, the circles indicates where each station is placed. The yellow and green colors
-are used to indicate station with data level 1.5 and 2.0 respectively.&lt;/p&gt;
+are used to indicate the availability of data level 1.5 and 2.0, respectively.&lt;/p&gt;
 </summary></entry><entry><title>Aerosol Data Validation on Brazil</title><link href="http://jdiasn.github.io/aot-validation.html" rel="alternate"></link><updated>2016-04-12T23:41:00-03:00</updated><author><name>Jose Dias</name></author><id>tag:jdiasn.github.io,2016-04-12:aot-validation.html</id><summary type="html">&lt;p&gt;On Oct. 28, 2011 the Suomi National Polar-orbiting Partnership spacecraft was launched. It is
 a result of mutual cooperation between NASA and NOAA. This spacecraft is composed by five sensors
 to monitor Earth System. One of them is Visible Infrared Imaging Radiometer Suite (&lt;a class="reference external" href="http://npp.gsfc.nasa.gov/viirs.html"&gt;VIIRS&lt;/a&gt;). One
