@@ -1,9 +1,71 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Jose Dias</title><link href="http://jdiasn.github.io/" rel="alternate"></link><link href="http://jdiasn.github.io/feeds/all.atom.xml" rel="self"></link><id>http://jdiasn.github.io/</id><updated>2016-04-30T20:29:00-03:00</updated><entry><title>AERONET on Brazil</title><link href="http://jdiasn.github.io/aeronet-brazil.html" rel="alternate"></link><updated>2016-04-30T20:29:00-03:00</updated><author><name>Jose Dias</name></author><id>tag:jdiasn.github.io,2016-04-30:aeronet-brazil.html</id><summary type="html">&lt;p&gt;Actually, on Brazil there are nine AERONET station in operation. Five from these stations are
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Jose Dias</title><link href="http://jdiasn.github.io/" rel="alternate"></link><link href="http://jdiasn.github.io/feeds/all.atom.xml" rel="self"></link><id>http://jdiasn.github.io/</id><updated>2016-05-11T17:55:00-03:00</updated><entry><title>Aerosol Optical Thickness by VIIRS</title><link href="http://jdiasn.github.io/test-md.html" rel="alternate"></link><updated>2016-05-11T17:55:00-03:00</updated><author><name>Jose Dias</name></author><id>tag:jdiasn.github.io,2016-05-11:test-md.html</id><summary type="html">&lt;p&gt;texto&lt;/p&gt;
+&lt;div class="math"&gt;\begin{equation}
+\label{eq}
+\frac{a}{b}
+\end{equation}&lt;/div&gt;
+&lt;p&gt;cite \ref{eq}&lt;/p&gt;
+&lt;script type="text/javascript"&gt;if (!document.getElementById('mathjaxscript_pelican_#%@#$@#')) {
+    var align = "center",
+        indent = "0em",
+        linebreak = "false";
+
+    if (false) {
+        align = (screen.width &lt; 768) ? "left" : align;
+        indent = (screen.width &lt; 768) ? "0em" : indent;
+        linebreak = (screen.width &lt; 768) ? 'true' : linebreak;
+    }
+
+    var mathjaxscript = document.createElement('script');
+    var location_protocol = (false) ? 'https' : document.location.protocol;
+    if (location_protocol !== 'http' &amp;&amp; location_protocol !== 'https') location_protocol = 'https:';
+    mathjaxscript.id = 'mathjaxscript_pelican_#%@#$@#';
+    mathjaxscript.type = 'text/javascript';
+    mathjaxscript.src = location_protocol + '//cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML';
+    mathjaxscript[(window.opera ? "innerHTML" : "text")] =
+        "MathJax.Hub.Config({" +
+        "    config: ['MMLorHTML.js']," +
+        "    TeX: { extensions: ['AMSmath.js','AMSsymbols.js','noErrors.js','noUndefined.js','color.js','mhchem.js'], equationNumbers: { autoNumber: 'AMS' } }," +
+        "    jax: ['input/TeX','input/MathML','output/HTML-CSS']," +
+        "    extensions: ['tex2jax.js','mml2jax.js','MathMenu.js','MathZoom.js']," +
+        "    displayAlign: '"+ align +"'," +
+        "    displayIndent: '"+ indent +"'," +
+        "    showMathMenu: true," +
+        "    messageStyle: 'normal'," +
+        "    tex2jax: { " +
+        "        inlineMath: [ ['\\\\(','\\\\)'] ], " +
+        "        displayMath: [ ['$$','$$'] ]," +
+        "        processEscapes: true," +
+        "        preview: 'TeX'," +
+        "    }, " +
+        "    'HTML-CSS': { " +
+        "        styles: { '.MathJax_Display, .MathJax .mo, .MathJax .mi, .MathJax .mn': {color: 'inherit ! important'} }," +
+        "        linebreaks: { automatic: "+ linebreak +", width: '90% container' }," +
+        "    }, " +
+        "}); " +
+        "if ('default' !== 'default') {" +
+            "MathJax.Hub.Register.StartupHook('HTML-CSS Jax Ready',function () {" +
+                "var VARIANT = MathJax.OutputJax['HTML-CSS'].FONTDATA.VARIANT;" +
+                "VARIANT['normal'].fonts.unshift('MathJax_default');" +
+                "VARIANT['bold'].fonts.unshift('MathJax_default-bold');" +
+                "VARIANT['italic'].fonts.unshift('MathJax_default-italic');" +
+                "VARIANT['-tex-mathit'].fonts.unshift('MathJax_default-italic');" +
+            "});" +
+            "MathJax.Hub.Register.StartupHook('SVG Jax Ready',function () {" +
+                "var VARIANT = MathJax.OutputJax.SVG.FONTDATA.VARIANT;" +
+                "VARIANT['normal'].fonts.unshift('MathJax_default');" +
+                "VARIANT['bold'].fonts.unshift('MathJax_default-bold');" +
+                "VARIANT['italic'].fonts.unshift('MathJax_default-italic');" +
+                "VARIANT['-tex-mathit'].fonts.unshift('MathJax_default-italic');" +
+            "});" +
+        "}";
+    (document.body || document.getElementsByTagName('head')[0]).appendChild(mathjaxscript);
+}
+&lt;/script&gt;</summary><category term="Aerosol"></category><category term="NPP"></category><category term="VIIRS"></category><category term="6S Model"></category></entry><entry><title>AERONET on Brazil</title><link href="http://jdiasn.github.io/aeronet-brazil.html" rel="alternate"></link><updated>2016-04-30T20:29:00-03:00</updated><author><name>Jose Dias</name></author><id>tag:jdiasn.github.io,2016-04-30:aeronet-brazil.html</id><summary type="html">&lt;p&gt;Actually, on Brazil there are nine AERONET station in operation. Five from these stations are
 placed in Amazon Region and the four others are spread out over remaining territory. The AOT
 data measured may be classified like level 1.5 and 2.0. This classification is associated with
 algorithm applied to process data.&lt;/p&gt;
-&lt;img alt="" class="align-right" src="http://gauss.geofisica.ufrn.br/~ionosfera/zedias/aot/stationMap.png" style="width: 640.0px; height: 480.0px;" /&gt;
+&lt;img alt="" class="align-right" src="http://gauss.geofisica.ufrn.br/~ionosfera/zedias/aot/stationMap.png" style="width: 480.0px; height: 360.0px;" /&gt;
 &lt;p&gt;In figure, the circles indicates where each station is placed. The yellow and green colors
 are used to indicate the availability of data level 1.5 and 2.0, respectively.&lt;/p&gt;
 </summary></entry><entry><title>Aerosol Data Validation on Brazil</title><link href="http://jdiasn.github.io/aot-validation.html" rel="alternate"></link><updated>2016-04-12T23:41:00-03:00</updated><author><name>Jose Dias</name></author><id>tag:jdiasn.github.io,2016-04-12:aot-validation.html</id><summary type="html">&lt;p&gt;On Oct. 28, 2011 the Suomi National Polar-orbiting Partnership spacecraft was launched. It is
