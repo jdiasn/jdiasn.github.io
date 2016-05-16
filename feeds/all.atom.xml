@@ -42,7 +42,7 @@ isn't possible to solve by traditional way. By simplicity, we will define
 &lt;span class="math"&gt;\(g\equiv \frac{B}{\lambda}\)&lt;/span&gt;. So, the least equation becomes &lt;/p&gt;
 &lt;div class="math"&gt;\begin{equation}
 exp(\frac{B}{\lambda})(\frac{B}{\lambda}-5)+5=0
-\label{eq6}
+\label{eq7}
 \end{equation}&lt;/div&gt;
 &lt;p&gt;(I will finish it soon as possible.)&lt;/p&gt;
 &lt;script type="text/javascript"&gt;if (!document.getElementById('mathjaxscript_pelican_#%@#$@#')) {
