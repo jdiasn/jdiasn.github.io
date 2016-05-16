@@ -89,7 +89,44 @@ Hereafter, I will show how it cam be found.</p>
 B(T,\lambda) = \frac{2hc^{2}}{\lambda^{5}(exp(\frac{hc}{kT})-1)}
 \end{equation}</div>
 <p>By simplicity, let's define <span class="math">\(\alpha\equiv 2hc^{2}\)</span> and <span class="math">\(\gamma\equiv \frac{hc}{kT}\)</span></p>
-<p>So, the equation \ref{eq1} becomes ...</p>
+<p>So, the equation \ref{eq1} becomes </p>
+<div class="math">\begin{equation}
+\label{eq2}
+B(T, \lambda) = D\lambda^{-5}(exp(\frac{B}{\lambda})-1)^{-1} 
+\end{equation}</div>
+<p>But what we want to find? We are interested to find in which wavelength occur 
+the maximum emissivity. For it, we need to make <span class="math">\(\frac{\partial B}{\partial \lambda}=0\)</span>. </p>
+<div class="math">\begin{equation}
+\begin{split}
+ \frac{\partial B}{\partial \lambda}=D\lambda^{6-}(exp(\frac{B}{\lambda})-1)
+[-5+ \\ B\lambda^{-1}(exp(\frac{B}{\lambda})-1)^{-1}exp(\frac{B}{\lambda})] =0
+\end{split}
+\label{eq3}
+\end{equation}</div>
+<p>The solution of equation \ref{eq3} is getting doing the factor inside of brackets equal
+to zero. </p>
+<div class="math">\begin{equation}
+-5+ B\lambda^{-1}(exp(\frac{B}{\lambda})-1)^{-1}exp(\frac{B}{\lambda}) =0
+\label{eq4}
+\end{equation}</div>
+<p>After to reorder all factors in \ref{eq4}, we will get the equation bellow.</p>
+<div class="math">\begin{equation}
+\lambda[\exp(\frac{B}{\lambda})(\frac{B}{\lambda}-5)+5]=0
+\label{eq5}
+\end{equation}</div>
+<p>Once that <span class="math">\(\lambda\)</span> is different of zero, the factor inside of brackets has to be
+zero. </p>
+<div class="math">\begin{equation}
+exp(\frac{B}{\lambda})(\frac{B}{\lambda}-5)+5=0
+\label{eq6}
+\end{equation}</div>
+<p>The equation \ref{eq6} is a transcendental equation, it means that this equation
+isn't possible to solve by traditional way. By simplicity, we will define 
+<span class="math">\(g\equiv \frac{B}{\lambda}\)</span>. So, the least equation becomes </p>
+<div class="math">\begin{equation}
+exp(\frac{B}{\lambda})(\frac{B}{\lambda}-5)+5=0
+\label{eq6}
+\end{equation}</div>
 <p>(I will finish it soon as possible.)</p>
 <script type="text/javascript">if (!document.getElementById('mathjaxscript_pelican_#%@#$@#')) {
     var align = "center",

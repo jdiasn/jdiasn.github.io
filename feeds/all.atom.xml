@@ -6,7 +6,44 @@ Hereafter, I will show how it cam be found.&lt;/p&gt;
 B(T,\lambda) = \frac{2hc^{2}}{\lambda^{5}(exp(\frac{hc}{kT})-1)}
 \end{equation}&lt;/div&gt;
 &lt;p&gt;By simplicity, let's define &lt;span class="math"&gt;\(\alpha\equiv 2hc^{2}\)&lt;/span&gt; and &lt;span class="math"&gt;\(\gamma\equiv \frac{hc}{kT}\)&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;So, the equation \ref{eq1} becomes ...&lt;/p&gt;
+&lt;p&gt;So, the equation \ref{eq1} becomes &lt;/p&gt;
+&lt;div class="math"&gt;\begin{equation}
+\label{eq2}
+B(T, \lambda) = D\lambda^{-5}(exp(\frac{B}{\lambda})-1)^{-1} 
+\end{equation}&lt;/div&gt;
+&lt;p&gt;But what we want to find? We are interested to find in which wavelength occur 
+the maximum emissivity. For it, we need to make &lt;span class="math"&gt;\(\frac{\partial B}{\partial \lambda}=0\)&lt;/span&gt;. &lt;/p&gt;
+&lt;div class="math"&gt;\begin{equation}
+\begin{split}
+ \frac{\partial B}{\partial \lambda}=D\lambda^{6-}(exp(\frac{B}{\lambda})-1)
+[-5+ \\ B\lambda^{-1}(exp(\frac{B}{\lambda})-1)^{-1}exp(\frac{B}{\lambda})] =0
+\end{split}
+\label{eq3}
+\end{equation}&lt;/div&gt;
+&lt;p&gt;The solution of equation \ref{eq3} is getting doing the factor inside of brackets equal
+to zero. &lt;/p&gt;
+&lt;div class="math"&gt;\begin{equation}
+-5+ B\lambda^{-1}(exp(\frac{B}{\lambda})-1)^{-1}exp(\frac{B}{\lambda}) =0
+\label{eq4}
+\end{equation}&lt;/div&gt;
+&lt;p&gt;After to reorder all factors in \ref{eq4}, we will get the equation bellow.&lt;/p&gt;
+&lt;div class="math"&gt;\begin{equation}
+\lambda[\exp(\frac{B}{\lambda})(\frac{B}{\lambda}-5)+5]=0
+\label{eq5}
+\end{equation}&lt;/div&gt;
+&lt;p&gt;Once that &lt;span class="math"&gt;\(\lambda\)&lt;/span&gt; is different of zero, the factor inside of brackets has to be
+zero. &lt;/p&gt;
+&lt;div class="math"&gt;\begin{equation}
+exp(\frac{B}{\lambda})(\frac{B}{\lambda}-5)+5=0
+\label{eq6}
+\end{equation}&lt;/div&gt;
+&lt;p&gt;The equation \ref{eq6} is a transcendental equation, it means that this equation
+isn't possible to solve by traditional way. By simplicity, we will define 
+&lt;span class="math"&gt;\(g\equiv \frac{B}{\lambda}\)&lt;/span&gt;. So, the least equation becomes &lt;/p&gt;
+&lt;div class="math"&gt;\begin{equation}
+exp(\frac{B}{\lambda})(\frac{B}{\lambda}-5)+5=0
+\label{eq6}
+\end{equation}&lt;/div&gt;
 &lt;p&gt;(I will finish it soon as possible.)&lt;/p&gt;
 &lt;script type="text/javascript"&gt;if (!document.getElementById('mathjaxscript_pelican_#%@#$@#')) {
     var align = "center",
