@@ -84,6 +84,7 @@
       
       <p>The Wein's displacement law is obtained from Planck's law.
 Hereafter, I will show how it cam be found.</p>
+<p><img alt="" src="http://gauss.geofisica.ufrn.br/~ionosfera/zedias/meteorologia/planck.png" style="float:right;width:80%;margin:10px" /></p>
 <div class="math">\begin{equation}
 \label{eq1}
 B(T,\lambda) = \frac{2hc^{2}}{\lambda^{5}(exp(\frac{hc}{kT})-1)}
@@ -98,7 +99,7 @@ B(T, \lambda) = D\lambda^{-5}(exp(\frac{B}{\lambda})-1)^{-1}
 the maximum emissivity. For it, we need to make <span class="math">\(\frac{\partial B}{\partial \lambda}=0\)</span>. </p>
 <div class="math">\begin{equation}
 \begin{split}
- \frac{\partial B}{\partial \lambda}=D\lambda^{6-}(exp(\frac{B}{\lambda})-1)
+ \frac{\partial B}{\partial \lambda}=D\lambda^{-6}(exp(\frac{B}{\lambda})-1)
 [-5+ \\ B\lambda^{-1}(exp(\frac{B}{\lambda})-1)^{-1}exp(\frac{B}{\lambda})] =0
 \end{split}
 \label{eq3}
@@ -120,11 +121,11 @@ zero. </p>
 exp(\frac{B}{\lambda})(\frac{B}{\lambda}-5)+5=0
 \label{eq6}
 \end{equation}</div>
-<p>The equation \ref{eq6} is a transcendental equation, it means that this equation
+<p>The equation \ref{eq6} is a transcendental equation, it means that this 
 isn't possible to solve by traditional way. By simplicity, we will define 
 <span class="math">\(g\equiv \frac{B}{\lambda}\)</span>. So, the least equation becomes </p>
 <div class="math">\begin{equation}
-exp(\frac{B}{\lambda})(\frac{B}{\lambda}-5)+5=0
+exp(g)(g-5)+5=0
 \label{eq7}
 \end{equation}</div>
 <p>(I will finish it soon as possible.)</p>
