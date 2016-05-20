@@ -69,7 +69,7 @@ Perhaps, &lt;/p&gt;
 &lt;div class="math"&gt;\begin{equation}
 g=\frac{\gamma}{\lambda}=\frac{hc}{kT\lambda}=constant \Rightarrow {\lambda}{T}=constant
 \end{equation}&lt;/div&gt;
-&lt;p&gt;(C.Q.D.)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Quod erat demonstrandum&lt;/strong&gt;.&lt;/p&gt;
 &lt;script type="text/javascript"&gt;if (!document.getElementById('mathjaxscript_pelican_#%@#$@#')) {
     var align = "center",
         indent = "0em",
