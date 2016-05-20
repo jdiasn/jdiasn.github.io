@@ -83,7 +83,9 @@
       <h3>Qua 11 maio 2016</h3>
       
   <p>The Wein's displacement law is obtained from Planck's law.
-Hereafter, I will show how it cam be found.</p>
+Wein's law says that the product of wavelength (of maximum emissivity) by body's temperature <span class="math">\(T\)</span>
+is equal a constant. The figure below shows a family of emissivity curve for four values of <span class="math">\(T\)</span>.
+Hereafter, we will show how that law cam be found.</p>
 <p><img alt="" src="http://gauss.geofisica.ufrn.br/~ionosfera/zedias/meteorologia/planck.png" style="float:right;width:80%;margin:10px" /></p>
 <div class="math">\begin{equation}
 \label{eq1}
@@ -93,42 +95,64 @@ B(T,\lambda) = \frac{2hc^{2}}{\lambda^{5}(exp(\frac{hc}{kT})-1)}
 <p>So, the equation \ref{eq1} becomes </p>
 <div class="math">\begin{equation}
 \label{eq2}
-B(T, \lambda) = D\lambda^{-5}(exp(\frac{B}{\lambda})-1)^{-1} 
+B(T, \lambda) = \alpha\lambda^{-5}(exp(\frac{\gamma}{\lambda})-1)^{-1} 
 \end{equation}</div>
 <p>But what we want to find? We are interested to find in which wavelength occur 
 the maximum emissivity. For it, we need to make <span class="math">\(\frac{\partial B}{\partial \lambda}=0\)</span>. </p>
 <div class="math">\begin{equation}
 \begin{split}
- \frac{\partial B}{\partial \lambda}=D\lambda^{-6}(exp(\frac{B}{\lambda})-1)
-[-5+ \\ B\lambda^{-1}(exp(\frac{B}{\lambda})-1)^{-1}exp(\frac{B}{\lambda})] =0
+ \frac{\partial B}{\partial \lambda}=\alpha\lambda^{-6}(exp(\frac{\gamma}{\lambda})-1)
+[-5+ \\ \gamma\lambda^{-1}(exp(\frac{\gamma}{\lambda})-1)^{-1}exp(\frac{\gamma}{\lambda})] =0
 \end{split}
 \label{eq3}
 \end{equation}</div>
 <p>The solution of equation \ref{eq3} is getting doing the factor inside of brackets equal
 to zero. </p>
 <div class="math">\begin{equation}
--5+ B\lambda^{-1}(exp(\frac{B}{\lambda})-1)^{-1}exp(\frac{B}{\lambda}) =0
+-5+ \gamma\lambda^{-1}(exp(\frac{\gamma}{\lambda})-1)^{-1}exp(\frac{\gamma}{\lambda}) =0
 \label{eq4}
 \end{equation}</div>
 <p>After to reorder all factors in \ref{eq4}, we will get the equation bellow.</p>
 <div class="math">\begin{equation}
-\lambda[\exp(\frac{B}{\lambda})(\frac{B}{\lambda}-5)+5]=0
+\lambda[\exp(\frac{\gamma}{\lambda})(\frac{\gamma}{\lambda}-5)+5]=0
 \label{eq5}
 \end{equation}</div>
 <p>Once that <span class="math">\(\lambda\)</span> is different of zero, the factor inside of brackets has to be
 zero. </p>
 <div class="math">\begin{equation}
-exp(\frac{B}{\lambda})(\frac{B}{\lambda}-5)+5=0
+exp(\frac{\gamma}{\lambda})(\frac{\gamma}{\lambda}-5)+5=0
 \label{eq6}
 \end{equation}</div>
 <p>The equation \ref{eq6} is a transcendental equation, it means that this 
 isn't possible to solve by traditional way. By simplicity, we will define 
-<span class="math">\(g\equiv \frac{B}{\lambda}\)</span>. So, the least equation becomes </p>
+<span class="math">\(g\equiv \frac{\gamma}{\lambda}\)</span>. So, the least equation becomes </p>
 <div class="math">\begin{equation}
 exp(g)(g-5)+5=0
 \label{eq7}
 \end{equation}</div>
-<p>(I will finish it soon as possible.)</p>
+<p>How to solve it? One way cam be expressing exponential function by approximation
+using Taylor's series. An other way is to use graphical method (I will be demonstrated
+at other).</p>
+<div class="math">\begin{equation}
+exp(g)=1+g+\frac{g^2}{2}
+\label{eq8}
+\end{equation}</div>
+<p>After replace <span class="math">\(\ref{eq8}\)</span> in <span class="math">\(\ref{eq7}\)</span>; we get:</p>
+<div class="math">\begin{equation}
+(1+g+\frac{g^2}{2})(g-5)+5=0
+\label{eq9}
+\end{equation}</div>
+<p>After reorganize, we find </p>
+<div class="math">\begin{equation}
+g(-4-\frac{3g}{2}+\frac{g^2}{2})=0
+\label{eq10}
+\end{equation}</div>
+<p>Inside of brackets, we have second degree equation; then, we may conclude that <span class="math">\(g\)</span> is a constant. 
+Perhaps, </p>
+<div class="math">\begin{equation}
+g=\frac{\gamma}{\lambda}=\frac{hc}{kT\lambda}=constant \Rightarrow {\lambda}{T}=constant
+\end{equation}</div>
+<p>(C.Q.D.)</p>
 <script type="text/javascript">if (!document.getElementById('mathjaxscript_pelican_#%@#$@#')) {
     var align = "center",
         indent = "0em",

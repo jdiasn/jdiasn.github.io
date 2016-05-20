@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom"><title>Jose Dias</title><link href="http://jdiasn.github.io/" rel="alternate"></link><link href="http://jdiasn.github.io/feeds/all.atom.xml" rel="self"></link><id>http://jdiasn.github.io/</id><updated>2016-05-11T17:55:00-03:00</updated><entry><title>Wien's law step by step</title><link href="http://jdiasn.github.io/test-md.html" rel="alternate"></link><updated>2016-05-11T17:55:00-03:00</updated><author><name>Jose Dias</name></author><id>tag:jdiasn.github.io,2016-05-11:test-md.html</id><summary type="html">&lt;p&gt;The Wein's displacement law is obtained from Planck's law.
-Hereafter, I will show how it cam be found.&lt;/p&gt;
+Wein's law says that the product of wavelength (of maximum emissivity) by body's temperature &lt;span class="math"&gt;\(T\)&lt;/span&gt;
+is equal a constant. The figure below shows a family of emissivity curve for four values of &lt;span class="math"&gt;\(T\)&lt;/span&gt;.
+Hereafter, we will show how that law cam be found.&lt;/p&gt;
 &lt;p&gt;&lt;img alt="" src="http://gauss.geofisica.ufrn.br/~ionosfera/zedias/meteorologia/planck.png" style="float:right;width:80%;margin:10px" /&gt;&lt;/p&gt;
 &lt;div class="math"&gt;\begin{equation}
 \label{eq1}
@@ -10,42 +12,64 @@ B(T,\lambda) = \frac{2hc^{2}}{\lambda^{5}(exp(\frac{hc}{kT})-1)}
 &lt;p&gt;So, the equation \ref{eq1} becomes &lt;/p&gt;
 &lt;div class="math"&gt;\begin{equation}
 \label{eq2}
-B(T, \lambda) = D\lambda^{-5}(exp(\frac{B}{\lambda})-1)^{-1} 
+B(T, \lambda) = \alpha\lambda^{-5}(exp(\frac{\gamma}{\lambda})-1)^{-1} 
 \end{equation}&lt;/div&gt;
 &lt;p&gt;But what we want to find? We are interested to find in which wavelength occur 
 the maximum emissivity. For it, we need to make &lt;span class="math"&gt;\(\frac{\partial B}{\partial \lambda}=0\)&lt;/span&gt;. &lt;/p&gt;
 &lt;div class="math"&gt;\begin{equation}
 \begin{split}
- \frac{\partial B}{\partial \lambda}=D\lambda^{-6}(exp(\frac{B}{\lambda})-1)
-[-5+ \\ B\lambda^{-1}(exp(\frac{B}{\lambda})-1)^{-1}exp(\frac{B}{\lambda})] =0
+ \frac{\partial B}{\partial \lambda}=\alpha\lambda^{-6}(exp(\frac{\gamma}{\lambda})-1)
+[-5+ \\ \gamma\lambda^{-1}(exp(\frac{\gamma}{\lambda})-1)^{-1}exp(\frac{\gamma}{\lambda})] =0
 \end{split}
 \label{eq3}
 \end{equation}&lt;/div&gt;
 &lt;p&gt;The solution of equation \ref{eq3} is getting doing the factor inside of brackets equal
 to zero. &lt;/p&gt;
 &lt;div class="math"&gt;\begin{equation}
--5+ B\lambda^{-1}(exp(\frac{B}{\lambda})-1)^{-1}exp(\frac{B}{\lambda}) =0
+-5+ \gamma\lambda^{-1}(exp(\frac{\gamma}{\lambda})-1)^{-1}exp(\frac{\gamma}{\lambda}) =0
 \label{eq4}
 \end{equation}&lt;/div&gt;
 &lt;p&gt;After to reorder all factors in \ref{eq4}, we will get the equation bellow.&lt;/p&gt;
 &lt;div class="math"&gt;\begin{equation}
-\lambda[\exp(\frac{B}{\lambda})(\frac{B}{\lambda}-5)+5]=0
+\lambda[\exp(\frac{\gamma}{\lambda})(\frac{\gamma}{\lambda}-5)+5]=0
 \label{eq5}
 \end{equation}&lt;/div&gt;
 &lt;p&gt;Once that &lt;span class="math"&gt;\(\lambda\)&lt;/span&gt; is different of zero, the factor inside of brackets has to be
 zero. &lt;/p&gt;
 &lt;div class="math"&gt;\begin{equation}
-exp(\frac{B}{\lambda})(\frac{B}{\lambda}-5)+5=0
+exp(\frac{\gamma}{\lambda})(\frac{\gamma}{\lambda}-5)+5=0
 \label{eq6}
 \end{equation}&lt;/div&gt;
 &lt;p&gt;The equation \ref{eq6} is a transcendental equation, it means that this 
 isn't possible to solve by traditional way. By simplicity, we will define 
-&lt;span class="math"&gt;\(g\equiv \frac{B}{\lambda}\)&lt;/span&gt;. So, the least equation becomes &lt;/p&gt;
+&lt;span class="math"&gt;\(g\equiv \frac{\gamma}{\lambda}\)&lt;/span&gt;. So, the least equation becomes &lt;/p&gt;
 &lt;div class="math"&gt;\begin{equation}
 exp(g)(g-5)+5=0
 \label{eq7}
 \end{equation}&lt;/div&gt;
-&lt;p&gt;(I will finish it soon as possible.)&lt;/p&gt;
+&lt;p&gt;How to solve it? One way cam be expressing exponential function by approximation
+using Taylor's series. An other way is to use graphical method (I will be demonstrated
+at other).&lt;/p&gt;
+&lt;div class="math"&gt;\begin{equation}
+exp(g)=1+g+\frac{g^2}{2}
+\label{eq8}
+\end{equation}&lt;/div&gt;
+&lt;p&gt;After replace &lt;span class="math"&gt;\(\ref{eq8}\)&lt;/span&gt; in &lt;span class="math"&gt;\(\ref{eq7}\)&lt;/span&gt;; we get:&lt;/p&gt;
+&lt;div class="math"&gt;\begin{equation}
+(1+g+\frac{g^2}{2})(g-5)+5=0
+\label{eq9}
+\end{equation}&lt;/div&gt;
+&lt;p&gt;After reorganize, we find &lt;/p&gt;
+&lt;div class="math"&gt;\begin{equation}
+g(-4-\frac{3g}{2}+\frac{g^2}{2})=0
+\label{eq10}
+\end{equation}&lt;/div&gt;
+&lt;p&gt;Inside of brackets, we have second degree equation; then, we may conclude that &lt;span class="math"&gt;\(g\)&lt;/span&gt; is a constant. 
+Perhaps, &lt;/p&gt;
+&lt;div class="math"&gt;\begin{equation}
+g=\frac{\gamma}{\lambda}=\frac{hc}{kT\lambda}=constant \Rightarrow {\lambda}{T}=constant
+\end{equation}&lt;/div&gt;
+&lt;p&gt;(C.Q.D.)&lt;/p&gt;
 &lt;script type="text/javascript"&gt;if (!document.getElementById('mathjaxscript_pelican_#%@#$@#')) {
     var align = "center",
         indent = "0em",
