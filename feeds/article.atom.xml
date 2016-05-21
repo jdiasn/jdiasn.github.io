@@ -1,18 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom"><title>Jose Dias</title><link href="http://jdiasn.github.io/" rel="alternate"></link><link href="http://jdiasn.github.io/feeds/article.atom.xml" rel="self"></link><id>http://jdiasn.github.io/</id><updated>2016-05-11T17:55:00-03:00</updated><entry><title>Wien's law step by step</title><link href="http://jdiasn.github.io/test-md.html" rel="alternate"></link><updated>2016-05-11T17:55:00-03:00</updated><author><name>Jose Dias</name></author><id>tag:jdiasn.github.io,2016-05-11:test-md.html</id><summary type="html">&lt;p&gt;The Wein's displacement law is obtained from Planck's law.
-Wein's law says that the product of wavelength (of maximum emissivity) by body's temperature &lt;span class="math"&gt;\(T\)&lt;/span&gt;
-is equal a constant. The figure below shows a family of emissivity curve for four values of &lt;span class="math"&gt;\(T\)&lt;/span&gt;.
-Hereafter, we will show how that law cam be found.&lt;/p&gt;
-&lt;p&gt;&lt;img alt="" src="http://gauss.geofisica.ufrn.br/~ionosfera/zedias/meteorologia/planck.png" style="float:right;width:80%;margin:10px" /&gt;&lt;/p&gt;
+Wein's law states that the product between wavelength,for maximum emissivity, and
+body's temperature &lt;span class="math"&gt;\(T\)&lt;/span&gt; is equal a constant. In other words, if we know the body's temperature,
+we will be able to determine the wavelength were the maximum emissivity occur.&lt;/p&gt;
+&lt;p&gt;The Planck's law is given by:&lt;/p&gt;
 &lt;div class="math"&gt;\begin{equation}
 \label{eq1}
 B(T,\lambda) = \frac{2hc^{2}}{\lambda^{5}(exp(\frac{hc}{kT})-1)}
 \end{equation}&lt;/div&gt;
+&lt;p&gt;The figure below shows a family of emissivity curve for five values of body's temperature &lt;span class="math"&gt;\(T\)&lt;/span&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" src="http://gauss.geofisica.ufrn.br/~ionosfera/zedias/meteorologia/planck.png" style="float:right;width:90%;margin:10px" /&gt;&lt;/p&gt;
+&lt;p&gt;Hereafter, we will show how the Wein's law cam be found.&lt;/p&gt;
 &lt;p&gt;By simplicity, let's define &lt;span class="math"&gt;\(\alpha\equiv 2hc^{2}\)&lt;/span&gt; and &lt;span class="math"&gt;\(\gamma\equiv \frac{hc}{kT}\)&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;So, the equation \ref{eq1} becomes &lt;/p&gt;
 &lt;div class="math"&gt;\begin{equation}
 \label{eq2}
-B(T, \lambda) = \alpha\lambda^{-5}(exp(\frac{\gamma}{\lambda})-1)^{-1} 
+B(\gamma, \lambda) = \alpha\lambda^{-5}(exp(\frac{\gamma}{\lambda})-1)^{-1} 
 \end{equation}&lt;/div&gt;
 &lt;p&gt;But what we want to find? We are interested to find in which wavelength occur 
 the maximum emissivity. For it, we need to make &lt;span class="math"&gt;\(\frac{\partial B}{\partial \lambda}=0\)&lt;/span&gt;. &lt;/p&gt;
@@ -48,7 +51,7 @@ exp(g)(g-5)+5=0
 \label{eq7}
 \end{equation}&lt;/div&gt;
 &lt;p&gt;How to solve it? One way cam be expressing exponential function by approximation
-using Taylor's series. An other way is to use graphical method (I will be demonstrated
+using Taylor's series. An other way is to use graphical method (It will be demonstrated
 at other).&lt;/p&gt;
 &lt;div class="math"&gt;\begin{equation}
 exp(g)=1+g+\frac{g^2}{2}

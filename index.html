@@ -83,19 +83,22 @@
       <h3>Qua 11 maio 2016</h3>
       
       <p>The Wein's displacement law is obtained from Planck's law.
-Wein's law says that the product of wavelength (of maximum emissivity) by body's temperature <span class="math">\(T\)</span>
-is equal a constant. The figure below shows a family of emissivity curve for four values of <span class="math">\(T\)</span>.
-Hereafter, we will show how that law cam be found.</p>
-<p><img alt="" src="http://gauss.geofisica.ufrn.br/~ionosfera/zedias/meteorologia/planck.png" style="float:right;width:80%;margin:10px" /></p>
+Wein's law states that the product between wavelength,for maximum emissivity, and
+body's temperature <span class="math">\(T\)</span> is equal a constant. In other words, if we know the body's temperature,
+we will be able to determine the wavelength were the maximum emissivity occur.</p>
+<p>The Planck's law is given by:</p>
 <div class="math">\begin{equation}
 \label{eq1}
 B(T,\lambda) = \frac{2hc^{2}}{\lambda^{5}(exp(\frac{hc}{kT})-1)}
 \end{equation}</div>
+<p>The figure below shows a family of emissivity curve for five values of body's temperature <span class="math">\(T\)</span>.</p>
+<p><img alt="" src="http://gauss.geofisica.ufrn.br/~ionosfera/zedias/meteorologia/planck.png" style="float:right;width:90%;margin:10px" /></p>
+<p>Hereafter, we will show how the Wein's law cam be found.</p>
 <p>By simplicity, let's define <span class="math">\(\alpha\equiv 2hc^{2}\)</span> and <span class="math">\(\gamma\equiv \frac{hc}{kT}\)</span></p>
 <p>So, the equation \ref{eq1} becomes </p>
 <div class="math">\begin{equation}
 \label{eq2}
-B(T, \lambda) = \alpha\lambda^{-5}(exp(\frac{\gamma}{\lambda})-1)^{-1} 
+B(\gamma, \lambda) = \alpha\lambda^{-5}(exp(\frac{\gamma}{\lambda})-1)^{-1} 
 \end{equation}</div>
 <p>But what we want to find? We are interested to find in which wavelength occur 
 the maximum emissivity. For it, we need to make <span class="math">\(\frac{\partial B}{\partial \lambda}=0\)</span>. </p>
@@ -131,7 +134,7 @@ exp(g)(g-5)+5=0
 \label{eq7}
 \end{equation}</div>
 <p>How to solve it? One way cam be expressing exponential function by approximation
-using Taylor's series. An other way is to use graphical method (I will be demonstrated
+using Taylor's series. An other way is to use graphical method (It will be demonstrated
 at other).</p>
 <div class="math">\begin{equation}
 exp(g)=1+g+\frac{g^2}{2}
