@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom"><title>Jose Dias</title><link href="http://jdiasn.github.io/" rel="alternate"></link><link href="http://jdiasn.github.io/feeds/article.atom.xml" rel="self"></link><id>http://jdiasn.github.io/</id><updated>2016-05-11T17:55:00-03:00</updated><entry><title>Wien's law step by step</title><link href="http://jdiasn.github.io/test-md.html" rel="alternate"></link><updated>2016-05-11T17:55:00-03:00</updated><author><name>Jose Dias</name></author><id>tag:jdiasn.github.io,2016-05-11:test-md.html</id><summary type="html">&lt;p&gt;The Wein's displacement law is obtained from Planck's law.
 Wein's law states that the product between wavelength, for a maximum emissivity, and
-body's temperature (&lt;span class="math"&gt;\(T\)&lt;/span&gt;) is constant. In other words, if we know the body's temperature,
+body's temperature &lt;span class="math"&gt;\((T)\)&lt;/span&gt; is constant. In other words, if we know the body's temperature,
 we will be able to determine the wavelength were the maximum emissivity occur.&lt;/p&gt;
 &lt;p&gt;The Planck's law is given by:&lt;/p&gt;
 &lt;div class="math"&gt;\begin{equation}
