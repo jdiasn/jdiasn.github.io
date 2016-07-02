@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom"><title>Jose Dias</title><link href="http://jdiasn.github.io/" rel="alternate"></link><link href="http://jdiasn.github.io/feeds/article.atom.xml" rel="self"></link><id>http://jdiasn.github.io/</id><updated>2016-05-11T17:55:00-03:00</updated><entry><title>Wien's law step by step</title><link href="http://jdiasn.github.io/test-md.html" rel="alternate"></link><updated>2016-05-11T17:55:00-03:00</updated><author><name>Jose Dias</name></author><id>tag:jdiasn.github.io,2016-05-11:test-md.html</id><summary type="html">&lt;p&gt;The Wein's displacement law is obtained from Planck's law.
 Wein's law states that the product between wavelength, for a maximum emissivity, and
-body's temperature &lt;span class="math"&gt;\((T)\)&lt;/span&gt; is constant. In other words, if we know the body's temperature,
-we will be able to determine the wavelength were the maximum emissivity occur.&lt;/p&gt;
+body's temperature &lt;span class="math"&gt;\((T)\)&lt;/span&gt;, is a constant. In other words, if we know the body's temperature,
+we'll be able to determine the wavelength were the maximum emissivity occur.&lt;/p&gt;
 &lt;p&gt;The Planck's law is given by:&lt;/p&gt;
 &lt;div class="math"&gt;\begin{equation}
 \label{eq1}
 B(T,\lambda) = \frac{2hc^{2}}{\lambda^{5}(exp(\frac{hc}{kT})-1)}
 \end{equation}&lt;/div&gt;
-&lt;p&gt;The figure below shows a family of emissivity curve for five values of &lt;span class="math"&gt;\(T\)&lt;/span&gt;.&lt;/p&gt;
+&lt;p&gt;The figure below shows a family of emissivity curves for five values of &lt;span class="math"&gt;\(T\)&lt;/span&gt;.&lt;/p&gt;
 &lt;p&gt;&lt;img alt="" src="http://gauss.geofisica.ufrn.br/~ionosfera/zedias/meteorologia/planck.png" style="float:right;width:90%;margin:10px" /&gt;&lt;/p&gt;
-&lt;p&gt;Hereafter, we will show how the Wein's law cam be found.&lt;/p&gt;
-&lt;p&gt;By simplicity, let's define &lt;span class="math"&gt;\(\alpha\equiv 2hc^{2}\)&lt;/span&gt; and &lt;span class="math"&gt;\(\gamma\equiv \frac{hc}{kT}\)&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;So, the equation \ref{eq1} becomes &lt;/p&gt;
+&lt;p&gt;Hereafter, we'll show how the Wein's law cam be found.&lt;/p&gt;
+&lt;p&gt;For simplicity, let's define &lt;span class="math"&gt;\(\alpha\equiv 2hc^{2}\)&lt;/span&gt; and &lt;span class="math"&gt;\(\gamma\equiv \frac{hc}{kT}\)&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Then, the equation \ref{eq1} becomes:&lt;/p&gt;
 &lt;div class="math"&gt;\begin{equation}
 \label{eq2}
 B(\gamma, \lambda) = \alpha\lambda^{-5}(exp(\frac{\gamma}{\lambda})-1)^{-1} 
 \end{equation}&lt;/div&gt;
-&lt;p&gt;But what we want to find? We are interested to find in which wavelength occur 
-the maximum emissivity. For it, we need to make &lt;span class="math"&gt;\(\frac{\partial B}{\partial \lambda}=0\)&lt;/span&gt;. &lt;/p&gt;
+&lt;p&gt;But, what we want to find? We are interested to find in which wavelength occur 
+the maximum emissivity. For this, we need to make &lt;span class="math"&gt;\(\frac{\partial B}{\partial \lambda}=0\)&lt;/span&gt;. &lt;/p&gt;
 &lt;div class="math"&gt;\begin{equation}
 \begin{split}
  \frac{\partial B}{\partial \lambda}=\alpha\lambda^{-6}(exp(\frac{\gamma}{\lambda})-1)
@@ -26,13 +26,13 @@ the maximum emissivity. For it, we need to make &lt;span class="math"&gt;\(\frac
 \end{split}
 \label{eq3}
 \end{equation}&lt;/div&gt;
-&lt;p&gt;The solution of equation \ref{eq3} is getting doing the factor inside of brackets equal
+&lt;p&gt;The solution of equation \ref{eq3} is found doing the factor inside of brackets equal
 to zero. &lt;/p&gt;
 &lt;div class="math"&gt;\begin{equation}
 -5+ \gamma\lambda^{-1}(exp(\frac{\gamma}{\lambda})-1)^{-1}exp(\frac{\gamma}{\lambda}) =0
 \label{eq4}
 \end{equation}&lt;/div&gt;
-&lt;p&gt;After to reorder all factors in \ref{eq4}, we will get the equation bellow.&lt;/p&gt;
+&lt;p&gt;After reordering all the factors in \ref{eq4}, we will get the equation bellow.&lt;/p&gt;
 &lt;div class="math"&gt;\begin{equation}
 \lambda[\exp(\frac{\gamma}{\lambda})(\frac{\gamma}{\lambda}-5)+5]=0
 \label{eq5}
@@ -43,31 +43,31 @@ zero. &lt;/p&gt;
 exp(\frac{\gamma}{\lambda})(\frac{\gamma}{\lambda}-5)+5=0
 \label{eq6}
 \end{equation}&lt;/div&gt;
-&lt;p&gt;The equation \ref{eq6} is a transcendental equation, it means that this 
-isn't possible to solve by traditional way. By simplicity, we will define 
-&lt;span class="math"&gt;\(g\equiv \frac{\gamma}{\lambda}\)&lt;/span&gt;. So, the least equation becomes &lt;/p&gt;
+&lt;p&gt;The equation \ref{eq6} is a transcendental equation, that means, it is not 
+possible to solve by traditional way. For simplicity, we will define 
+&lt;span class="math"&gt;\(g\equiv \frac{\gamma}{\lambda}\)&lt;/span&gt;. Following, the last equation becomes &lt;/p&gt;
 &lt;div class="math"&gt;\begin{equation}
 exp(g)(g-5)+5=0
 \label{eq7}
 \end{equation}&lt;/div&gt;
-&lt;p&gt;How to solve it? One way cam be expressing exponential function by approximation
-using Taylor's series. An other way is to use graphical method (It will be demonstrated
-at other).&lt;/p&gt;
+&lt;p&gt;So, how to solve it? One way cam be expressing exponential function by an approximation
+using Taylor's series. Another way is to use graphical method (For the moment, we'll 
+demonstrate just the first way).&lt;/p&gt;
 &lt;div class="math"&gt;\begin{equation}
 exp(g)=1+g+\frac{g^2}{2}
 \label{eq8}
 \end{equation}&lt;/div&gt;
-&lt;p&gt;After replace &lt;span class="math"&gt;\(\ref{eq8}\)&lt;/span&gt; in &lt;span class="math"&gt;\(\ref{eq7}\)&lt;/span&gt;; we get:&lt;/p&gt;
+&lt;p&gt;After replacing &lt;span class="math"&gt;\(\ref{eq8}\)&lt;/span&gt; in &lt;span class="math"&gt;\(\ref{eq7}\)&lt;/span&gt;; we get:&lt;/p&gt;
 &lt;div class="math"&gt;\begin{equation}
 (1+g+\frac{g^2}{2})(g-5)+5=0
 \label{eq9}
 \end{equation}&lt;/div&gt;
-&lt;p&gt;After reorganize, we find &lt;/p&gt;
+&lt;p&gt;After reorganize, we find that: &lt;/p&gt;
 &lt;div class="math"&gt;\begin{equation}
 g(-4-\frac{3g}{2}+\frac{g^2}{2})=0
 \label{eq10}
 \end{equation}&lt;/div&gt;
-&lt;p&gt;By definition &lt;span class="math"&gt;\(g\)&lt;/span&gt; is different of zero; so, the expression inside of brackets 
+&lt;p&gt;According definition &lt;span class="math"&gt;\(g\)&lt;/span&gt; is different of zero; so, the expression inside of brackets 
 has to be equal to zero. This equation is a second degree equation; then, we may conclude
 that &lt;span class="math"&gt;\(g\)&lt;/span&gt; is a constant. &lt;/p&gt;
 &lt;p&gt;Therefore,&lt;/p&gt;

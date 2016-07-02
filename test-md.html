@@ -84,24 +84,24 @@
       
   <p>The Wein's displacement law is obtained from Planck's law.
 Wein's law states that the product between wavelength, for a maximum emissivity, and
-body's temperature <span class="math">\((T)\)</span> is constant. In other words, if we know the body's temperature,
-we will be able to determine the wavelength were the maximum emissivity occur.</p>
+body's temperature <span class="math">\((T)\)</span>, is a constant. In other words, if we know the body's temperature,
+we'll be able to determine the wavelength were the maximum emissivity occur.</p>
 <p>The Planck's law is given by:</p>
 <div class="math">\begin{equation}
 \label{eq1}
 B(T,\lambda) = \frac{2hc^{2}}{\lambda^{5}(exp(\frac{hc}{kT})-1)}
 \end{equation}</div>
-<p>The figure below shows a family of emissivity curve for five values of <span class="math">\(T\)</span>.</p>
+<p>The figure below shows a family of emissivity curves for five values of <span class="math">\(T\)</span>.</p>
 <p><img alt="" src="http://gauss.geofisica.ufrn.br/~ionosfera/zedias/meteorologia/planck.png" style="float:right;width:90%;margin:10px" /></p>
-<p>Hereafter, we will show how the Wein's law cam be found.</p>
-<p>By simplicity, let's define <span class="math">\(\alpha\equiv 2hc^{2}\)</span> and <span class="math">\(\gamma\equiv \frac{hc}{kT}\)</span></p>
-<p>So, the equation \ref{eq1} becomes </p>
+<p>Hereafter, we'll show how the Wein's law cam be found.</p>
+<p>For simplicity, let's define <span class="math">\(\alpha\equiv 2hc^{2}\)</span> and <span class="math">\(\gamma\equiv \frac{hc}{kT}\)</span></p>
+<p>Then, the equation \ref{eq1} becomes:</p>
 <div class="math">\begin{equation}
 \label{eq2}
 B(\gamma, \lambda) = \alpha\lambda^{-5}(exp(\frac{\gamma}{\lambda})-1)^{-1} 
 \end{equation}</div>
-<p>But what we want to find? We are interested to find in which wavelength occur 
-the maximum emissivity. For it, we need to make <span class="math">\(\frac{\partial B}{\partial \lambda}=0\)</span>. </p>
+<p>But, what we want to find? We are interested to find in which wavelength occur 
+the maximum emissivity. For this, we need to make <span class="math">\(\frac{\partial B}{\partial \lambda}=0\)</span>. </p>
 <div class="math">\begin{equation}
 \begin{split}
  \frac{\partial B}{\partial \lambda}=\alpha\lambda^{-6}(exp(\frac{\gamma}{\lambda})-1)
@@ -109,13 +109,13 @@ the maximum emissivity. For it, we need to make <span class="math">\(\frac{\part
 \end{split}
 \label{eq3}
 \end{equation}</div>
-<p>The solution of equation \ref{eq3} is getting doing the factor inside of brackets equal
+<p>The solution of equation \ref{eq3} is found doing the factor inside of brackets equal
 to zero. </p>
 <div class="math">\begin{equation}
 -5+ \gamma\lambda^{-1}(exp(\frac{\gamma}{\lambda})-1)^{-1}exp(\frac{\gamma}{\lambda}) =0
 \label{eq4}
 \end{equation}</div>
-<p>After to reorder all factors in \ref{eq4}, we will get the equation bellow.</p>
+<p>After reordering all the factors in \ref{eq4}, we will get the equation bellow.</p>
 <div class="math">\begin{equation}
 \lambda[\exp(\frac{\gamma}{\lambda})(\frac{\gamma}{\lambda}-5)+5]=0
 \label{eq5}
@@ -126,31 +126,31 @@ zero. </p>
 exp(\frac{\gamma}{\lambda})(\frac{\gamma}{\lambda}-5)+5=0
 \label{eq6}
 \end{equation}</div>
-<p>The equation \ref{eq6} is a transcendental equation, it means that this 
-isn't possible to solve by traditional way. By simplicity, we will define 
-<span class="math">\(g\equiv \frac{\gamma}{\lambda}\)</span>. So, the least equation becomes </p>
+<p>The equation \ref{eq6} is a transcendental equation, that means, it is not 
+possible to solve by traditional way. For simplicity, we will define 
+<span class="math">\(g\equiv \frac{\gamma}{\lambda}\)</span>. Following, the last equation becomes </p>
 <div class="math">\begin{equation}
 exp(g)(g-5)+5=0
 \label{eq7}
 \end{equation}</div>
-<p>How to solve it? One way cam be expressing exponential function by approximation
-using Taylor's series. An other way is to use graphical method (It will be demonstrated
-at other).</p>
+<p>So, how to solve it? One way cam be expressing exponential function by an approximation
+using Taylor's series. Another way is to use graphical method (For the moment, we'll 
+demonstrate just the first way).</p>
 <div class="math">\begin{equation}
 exp(g)=1+g+\frac{g^2}{2}
 \label{eq8}
 \end{equation}</div>
-<p>After replace <span class="math">\(\ref{eq8}\)</span> in <span class="math">\(\ref{eq7}\)</span>; we get:</p>
+<p>After replacing <span class="math">\(\ref{eq8}\)</span> in <span class="math">\(\ref{eq7}\)</span>; we get:</p>
 <div class="math">\begin{equation}
 (1+g+\frac{g^2}{2})(g-5)+5=0
 \label{eq9}
 \end{equation}</div>
-<p>After reorganize, we find </p>
+<p>After reorganize, we find that: </p>
 <div class="math">\begin{equation}
 g(-4-\frac{3g}{2}+\frac{g^2}{2})=0
 \label{eq10}
 \end{equation}</div>
-<p>By definition <span class="math">\(g\)</span> is different of zero; so, the expression inside of brackets 
+<p>According definition <span class="math">\(g\)</span> is different of zero; so, the expression inside of brackets 
 has to be equal to zero. This equation is a second degree equation; then, we may conclude
 that <span class="math">\(g\)</span> is a constant. </p>
 <p>Therefore,</p>
