@@ -2,11 +2,22 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 
+from pyembed.rst import PyEmbedRst
+PyEmbedRst().register()
+
+
 AUTHOR = u'Jose Dias'
 SITENAME = u'Jose Dias'
 SITEURL = ''
 
 PATH = 'content'
+
+THEME = "/home/josedias/projects/pelican-themes/waterspill-en"
+PLUGIN_PATHS = ['/home/josedias/projects/pelican-plugins']
+PLUGINS = ["render_math"]
+
+
+MATH_JAX = {'tex_extensions': ['color.js','mhchem.js'], 'latex_preview':['Tex']}
 
 
 
