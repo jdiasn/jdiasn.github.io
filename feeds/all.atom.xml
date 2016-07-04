@@ -1,5 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Jose Dias</title><link href="http://jdiasn.github.io/" rel="alternate"></link><link href="http://jdiasn.github.io/feeds/all.atom.xml" rel="self"></link><id>http://jdiasn.github.io/</id><updated>2016-05-11T17:55:00-03:00</updated><entry><title>Wien's law step by step</title><link href="http://jdiasn.github.io/test-md.html" rel="alternate"></link><updated>2016-05-11T17:55:00-03:00</updated><author><name>Jose Dias</name></author><id>tag:jdiasn.github.io,2016-05-11:test-md.html</id><summary type="html">&lt;p&gt;The Wein's displacement law is obtained from Planck's law.
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Jose Dias</title><link href="http://jdiasn.github.io/" rel="alternate"></link><link href="http://jdiasn.github.io/feeds/all.atom.xml" rel="self"></link><id>http://jdiasn.github.io/</id><updated>2016-07-03T15:11:00-03:00</updated><entry><title>PIRATA Projec 2013</title><link href="http://jdiasn.github.io/pirata-project.html" rel="alternate"></link><updated>2016-07-03T15:11:00-03:00</updated><author><name>Jose Dias</name></author><id>tag:jdiasn.github.io,2016-07-03:pirata-project.html</id><summary type="html">&lt;p&gt;At 2013, I had opportunity to participate of scientific team from 
+&lt;a href="http://www.pmel.noaa.gov/pirata/"&gt;PIRATA&lt;/a&gt;
+project, on board of &lt;a href="http://www.marinetraffic.com/pt/ais/details/ships/shipid:738424/mmsi:576785000/imo:8835516/vessel:OCEAN_STALWART"&gt;OCEAN STALWART&lt;/a&gt; 
+Research/Survey Vessel. Our main activity was to maintain nine oceanic buoys from that project. 
+During displacement between each buoy, we measured atmospheric and oceanic variables. 
+The equipment used in measurements was atmospheric balloon sounding, expendable  current 
+profiler (XCP), and UnderwayCTD. I performed some of this measurements using these sensors. &lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;
+&lt;iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fphoto.php%3Ffbid%3D534701559899567%26set%3Da.492950997407957.98857.100000791839387%26type%3D3&amp;width=500&amp;show_text=false&amp;height=375&amp;appId" width="500" height="375" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"&gt;&lt;/iframe&gt;
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;The picture above shows the moment in which I'm disassembling the buoy, and the 
+OCEAN STALWART Vessel (&lt;a href="https://www.facebook.com/media/set/?set=a.492950997407957.98857.100000791839387&amp;amp;type=3"&gt;more pictures&lt;/a&gt;).&lt;/p&gt;</summary></entry><entry><title>Wien's law step by step</title><link href="http://jdiasn.github.io/test-md.html" rel="alternate"></link><updated>2016-05-11T17:55:00-03:00</updated><author><name>Jose Dias</name></author><id>tag:jdiasn.github.io,2016-05-11:test-md.html</id><summary type="html">&lt;p&gt;The Wein's displacement law is obtained from Planck's law.
 Wein's law states that the product between wavelength, for a maximum emissivity, and
 body's temperature &lt;span class="math"&gt;\((T)\)&lt;/span&gt;, is a constant. In other words, if we know the body's temperature,
 we'll be able to determine the wavelength were the maximum emissivity occur.&lt;/p&gt;
