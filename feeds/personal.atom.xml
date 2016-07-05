@@ -1,5 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Jose Dias</title><link href="http://jdiasn.github.io/" rel="alternate"></link><link href="http://jdiasn.github.io/feeds/personal.atom.xml" rel="self"></link><id>http://jdiasn.github.io/</id><updated>2016-03-16T22:16:00-03:00</updated><entry><title>Break Time</title><link href="http://jdiasn.github.io/first-picture.html" rel="alternate"></link><updated>2016-03-16T22:16:00-03:00</updated><author><name>Jose Dias</name></author><id>tag:jdiasn.github.io,2016-03-16:first-picture.html</id><summary type="html">&lt;div class="figure align-right"&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Jose Dias</title><link href="http://jdiasn.github.io/" rel="alternate"></link><link href="http://jdiasn.github.io/feeds/personal.atom.xml" rel="self"></link><id>http://jdiasn.github.io/</id><updated>2016-07-04T23:41:00-03:00</updated><entry><title>Photography</title><link href="http://jdiasn.github.io/photo.html" rel="alternate"></link><updated>2016-07-04T23:41:00-03:00</updated><author><name>Jose Dias</name></author><id>tag:jdiasn.github.io,2016-07-04:photo.html</id><summary type="html">&lt;p&gt;At 2007, I bought my first camera (an Olympus E-volt 500). It was as very good investment.
+After that moment, I was in contact of the amazing world of photography, and learn about it.
+Unfortunately, that camera broke. Actually, I'm using a Nikon D-5100; this is so good like 
+my first camera.  &lt;/p&gt;
+&lt;p&gt;Since I begun this new hobby; I have takes photos of different things. I believe that my 
+best picture is that below. &lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;
+&lt;div class='pixels-photo'&gt;
+  &lt;p&gt;
+    &lt;img src='https://drscdn.500px.org/photo/98691237/m%3D900/78a9a80b272c8f50ecc227310463aee6' width="500" height="375" alt='Root Lightning by José Dias on 500px.com'&gt;
+  &lt;/p&gt;
+  &lt;a href='https://500px.com/photo/98691237/root-lightning-by-jos%C3%A9-dias' alt='Root Lightning by José Dias on 500px.com'&gt;&lt;/a&gt;
+&lt;/div&gt;
+&lt;script type='text/javascript' src='https://500px.com/embed.js'&gt;&lt;/script&gt;
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;I have others beautiful pictures; they are hosted in my account at &lt;a href="https://500px.com/jdiasn"&gt;500px&lt;/a&gt;. &lt;/p&gt;</summary></entry><entry><title>Break Time</title><link href="http://jdiasn.github.io/first-picture.html" rel="alternate"></link><updated>2016-03-16T22:16:00-03:00</updated><author><name>Jose Dias</name></author><id>tag:jdiasn.github.io,2016-03-16:first-picture.html</id><summary type="html">&lt;div class="figure align-right"&gt;
 &lt;img alt="" src="http://jdiasn.github.io/images/DSC_0598.JPG" style="width: 492.8px; height: 326.4px;" /&gt;
 &lt;p class="caption"&gt;Expending Free Time&lt;/p&gt;
 &lt;/div&gt;
