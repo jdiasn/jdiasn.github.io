@@ -8,7 +8,7 @@
     Bokeh.set_log_level("info");
 &lt;/script&gt;
     &lt;/head&gt;
-    &lt;body&gt;
+
 
         &lt;div class="plotdiv" id="3566e342-9bfe-4f98-a76d-f71eea7d5224"&gt;&lt;/div&gt;
 
@@ -20,7 +20,7 @@
             Bokeh.embed.embed_items(docs_json, render_items);
         });
         &lt;/script&gt;
-    &lt;/body&gt;
+
 &lt;/code&gt;&lt;/pre&gt;</summary></entry><entry><title>Photography</title><link href="http://jdiasn.github.io/photo.html" rel="alternate"></link><updated>2016-07-04T23:41:00-03:00</updated><author><name>Jose Dias</name></author><id>tag:jdiasn.github.io,2016-07-04:photo.html</id><summary type="html">&lt;p&gt;At 2007, I bought my first camera (an Olympus E-volt 500). It was as very good investment.
 After that moment, I was in contact of the amazing world of photography, and learn about it.
 Unfortunately, that camera broke. Actually, I'm using a Nikon D-5100; this is so good like 
