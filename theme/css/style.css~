@@ -213,8 +213,3 @@ ol {
     font-size: 1px;
     line-height: 0px;
 }
-
-#graph {
-	width: 50%;
-
-}
