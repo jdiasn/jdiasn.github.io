@@ -83,6 +83,11 @@ ol {
 	padding: 20px 250px 10px 40px;
 } 
 
+#mainContentFaceFrame {
+	padding: 20px 250px 10px 40px;
+}
+
+
 #footer { 
 	background: url(../images/bottom.gif) no-repeat;
 	font-size: 14px;
@@ -205,6 +210,12 @@ ol {
 .floatL, .align-left { 
 	float: left;
 	margin-right: 8px;
+}
+
+.faceFrame {
+	float: center;
+	margin-left: -140px;
+    	margin-right: -140px;
 }
 
 .clearfloat {
