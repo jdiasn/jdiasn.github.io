@@ -214,8 +214,9 @@ ol {
 
 .faceFrame {
 	float: center;
-	margin-left: -140px;
-    	margin-right: -140px;
+	margin-top: 75px;
+	margin-left: -114px;
+    margin-right: -114px;
 }
 
 .clearfloat {
