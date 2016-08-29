@@ -1,34 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Jose Dias</title><link href="http://jdiasn.github.io/" rel="alternate"></link><link href="http://jdiasn.github.io/feeds/professional.atom.xml" rel="self"></link><id>http://jdiasn.github.io/</id><updated>2016-07-03T15:11:00-03:00</updated><entry><title>PIRATA Project 2013</title><link href="http://jdiasn.github.io/pirata-project.html" rel="alternate"></link><updated>2016-07-03T15:11:00-03:00</updated><author><name>Jose Dias</name></author><id>tag:jdiasn.github.io,2016-07-03:pirata-project.html</id><summary type="html">&lt;p&gt;At 2013, I had opportunity to participate of scientific team from 
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Jose Dias</title><link href="http://jdiasn.github.io/" rel="alternate"></link><link href="http://jdiasn.github.io/feeds/professional.atom.xml" rel="self"></link><id>http://jdiasn.github.io/</id><updated>2016-07-03T15:11:00-03:00</updated><entry><title>PIRATA Project 2013</title><link href="http://jdiasn.github.io/pirata-project.html" rel="alternate"></link><updated>2016-07-03T15:11:00-03:00</updated><author><name>Jose Dias</name></author><id>tag:jdiasn.github.io,2016-07-03:pirata-project.html</id><summary type="html">&lt;p&gt;In 2013, I had opportunity to participate on the scientific team of a 
 &lt;a href="http://www.pmel.noaa.gov/pirata/"&gt;PIRATA&lt;/a&gt;
-project, on board of &lt;a href="http://www.marinetraffic.com/pt/ais/details/ships/shipid:738424/mmsi:576785000/imo:8835516/vessel:OCEAN_STALWART"&gt;OCEAN STALWART&lt;/a&gt; 
-Research/Survey Vessel. Our main activity was to maintain nine oceanic buoys from that project. 
-During displacement between each buoy, we measured atmospheric and oceanic variables. 
-The equipment used in measurements was atmospheric balloon sounding, expendable  current 
-profiler (XCP), and UnderwayCTD. I performed some of this measurements using these sensors. &lt;/p&gt;
+cruise aboard R/V &lt;a href="http://www.marinetraffic.com/pt/ais/details/ships/shipid:738424/mmsi:576785000/imo:8835516/vessel:OCEAN_STALWART"&gt;OCEAN STALWART&lt;/a&gt;.
+Our main activity was to maintain nine oceanic buoys from that project. 
+Between each buoy, we measured atmospheric and oceanic variables. 
+The instruments used for those measurements were: atmospheric balloon soundings, expendable current 
+profilers (XCP), and UnderwayCTDs. I performed some of this measurements using these sensors. &lt;/p&gt;
 &lt;pre&gt;&lt;code&gt;
 &lt;iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fphoto.php%3Ffbid%3D534701559899567%26set%3Da.492950997407957.98857.100000791839387%26type%3D3&amp;width=500&amp;show_text=false&amp;height=375&amp;appId" width="500" height="375" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"&gt;&lt;/iframe&gt;
 &lt;/code&gt;&lt;/pre&gt;
 
-&lt;p&gt;The picture above shows the moment in which I'm disassembling the buoy, and the 
-OCEAN STALWART Vessel (&lt;a href="https://www.facebook.com/media/set/?set=a.492950997407957.98857.100000791839387&amp;amp;type=1&amp;amp;l=4a102ba78f"&gt;more pictures&lt;/a&gt;).&lt;/p&gt;</summary></entry><entry><title>AERONET on Brazil</title><link href="http://jdiasn.github.io/aeronet-brazil.html" rel="alternate"></link><updated>2016-04-30T20:29:00-03:00</updated><author><name>Jose Dias</name></author><id>tag:jdiasn.github.io,2016-04-30:aeronet-brazil.html</id><summary type="html">&lt;p&gt;At the present time, there are nine AERONET station in operation across Brazil.
-Five from these stations are placed in Amazon Region and the four others are
-spread out over remaining territory. The AOT measured data may be classified
-like level 1.5 and 2.0. This classification is associated with
-algorithm applied to data processing.&lt;/p&gt;
+&lt;p&gt;The picture above shows the moment in which I'm disassembling the buoy and the 
+OCEAN STALWART Vessel (&lt;a href="https://www.facebook.com/media/set/?set=a.492950997407957.98857.100000791839387&amp;amp;type=1&amp;amp;l=4a102ba78f"&gt;more pictures&lt;/a&gt;).&lt;/p&gt;</summary></entry><entry><title>AERONET in Brazil</title><link href="http://jdiasn.github.io/aeronet-brazil.html" rel="alternate"></link><updated>2016-04-30T20:29:00-03:00</updated><author><name>Jose Dias</name></author><id>tag:jdiasn.github.io,2016-04-30:aeronet-brazil.html</id><summary type="html">&lt;p&gt;At the present time there are nine AERONET station in operation across Brazil.
+Five from these stations are placed in the Amazon Region and the four others are
+spread out over the remaining territory. The AOT measured data may be classified
+as level 1.5 and 2.0. This classification is associated with the
+algorithm applied during the data processing.&lt;/p&gt;
 &lt;img alt="" class="align-right" src="http://gauss.geofisica.ufrn.br/~ionosfera/zedias/aot/stationMap.png" style="width: 480.0px; height: 360.0px;" /&gt;
-&lt;p&gt;In figure, the circles indicates where each station is placed. The yellow and green colors
-are used to indicate the availability of data level 1.5 and 2.0, respectively.&lt;/p&gt;
-</summary></entry><entry><title>Aerosol Data Validation on Brazil</title><link href="http://jdiasn.github.io/aot-validation.html" rel="alternate"></link><updated>2016-04-12T23:41:00-03:00</updated><author><name>Jose Dias</name></author><id>tag:jdiasn.github.io,2016-04-12:aot-validation.html</id><summary type="html">&lt;p&gt;On Oct. 28, 2011 the Suomi National Polar-orbiting Partnership spacecraft was launched. It is
-a result of mutual cooperation between NASA and NOAA. This spacecraft is composed by five sensors
-to monitor Earth System. One of them is Visible Infrared Imaging Radiometer Suite (&lt;a class="reference external" href="http://npp.gsfc.nasa.gov/viirs.html"&gt;VIIRS&lt;/a&gt;). One
-possible utility is to monitor Aerosol Optical Thickness.&lt;/p&gt;
-&lt;p&gt;In Brazil, the National Institute For Space Research is data receiver of environmental satellite
-data. In particular, my job is to evaluate performance of Aerosol Optical Thickness (AOT) on
-the Brazil. The core of procedure is to compare AOT retrieved by VIIRS with AOT measured in
-AERONET sites and with AOT retrieved by &lt;a class="reference external" href="http://modis.gsfc.nasa.gov/about/"&gt;MODIS&lt;/a&gt; sensor. This project is under supervise of Dr.
+&lt;p&gt;In the figure above, the circles indicates where each station is placed. The yellow and green colors
+are used to indicate the availability of level 1.5 and 2.0 data, respectively.&lt;/p&gt;
+</summary></entry><entry><title>Aerosol Data Validation in Brazil</title><link href="http://jdiasn.github.io/aot-validation.html" rel="alternate"></link><updated>2016-04-12T23:41:00-03:00</updated><author><name>Jose Dias</name></author><id>tag:jdiasn.github.io,2016-04-12:aot-validation.html</id><summary type="html">&lt;p&gt;In Oct. 28, 2011 the Suomi National Polar-orbiting Partnership spacecraft was launched.
+It is a result of a collaboration between NASA and NOAA.
+This spacecraft is composed by five sensors designed to monitor the Earth System.
+One of them is the Visible Infrared Imaging Radiometer Suite (&lt;a class="reference external" href="http://npp.gsfc.nasa.gov/viirs.html"&gt;VIIRS&lt;/a&gt;).
+One possible application of such sensor is to monitor Aerosol Optical Thickness.
+In Brazil, the National Institute For Space Research (INPE) is the data center for
+environmental satellite data.&lt;/p&gt;
+&lt;p&gt;In particular, my job at INPE is to evaluate the performance of Aerosol Optical Thickness (AOT) in
+Brazil. The core of this procedure is to compare AOT retrieved by VIIRS with AOT measured in the
+AERONET sites and with the AOT retrieved by &lt;a class="reference external" href="http://modis.gsfc.nasa.gov/about/"&gt;MODIS&lt;/a&gt; sensor. This project is under supervision of Dr.
 &lt;a class="reference external" href="http://lattes.cnpq.br/2921337850760630"&gt;Sievert&lt;/a&gt;.&lt;/p&gt;
 &lt;img alt="" class="align-right" src="http://gauss.geofisica.ufrn.br/%7Eionosfera/zedias/aot/edrAnalyses/spatialAverage/diff201406.png" style="width: 480.0px; height: 360.0px;" /&gt;
-&lt;p&gt;The figure above shows spatial difference for VIIRS and MODIS AOT data on June, 2014.
-The result collection is hosted in &lt;a class="reference external" href="http://gauss.geofisica.ufrn.br/~ionosfera/zedias/aot/"&gt;AOT Results&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The figure above shows the spatial difference for VIIRS and MODIS AOT data for June, 2014.
+The collection of results for this project is hosted in &lt;a class="reference external" href="http://gauss.geofisica.ufrn.br/~ionosfera/zedias/aot/"&gt;AOT Results&lt;/a&gt;.&lt;/p&gt;
 </summary></entry></feed>
