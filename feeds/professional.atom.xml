@@ -14,14 +14,13 @@ profilers (XCP), and UnderwayCTDs. I performed some of this measurements using t
 OCEAN STALWART Vessel (&lt;a href="https://www.facebook.com/media/set/?set=a.492950997407957.98857.100000791839387&amp;amp;type=1&amp;amp;l=4a102ba78f"&gt;more pictures&lt;/a&gt;). The video below shows the measurement procedure with UnderwayCTD.&lt;/p&gt;
 &lt;pre&gt;&lt;code&gt;
 &lt;iframe width="500" height="375" src="https://www.youtube.com/embed/sdf0DavHwrs" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/code&gt;&lt;/pre&gt;</summary></entry><entry><title>AERONET in Brazil</title><link href="http://jdiasn.github.io/aeronet-brazil.html" rel="alternate"></link><updated>2016-04-30T20:29:00-03:00</updated><author><name>Jose Dias</name></author><id>tag:jdiasn.github.io,2016-04-30:aeronet-brazil.html</id><summary type="html">&lt;p&gt;At the present time there are nine AERONET station in operation across Brazil.
+&lt;/code&gt;&lt;/pre&gt;</summary></entry><entry><title>AERONET in South America</title><link href="http://jdiasn.github.io/aeronet-brazil.html" rel="alternate"></link><updated>2016-04-30T20:29:00-03:00</updated><author><name>Jose Dias</name></author><id>tag:jdiasn.github.io,2016-04-30:aeronet-brazil.html</id><summary type="html">&lt;p&gt;At the present time there are nine AERONET station in operation across Brazil.
 Five from these stations are placed in the Amazon Region and the four others are
 spread out over the remaining territory. The AOT measured data may be classified
 as level 1.5 and 2.0. This classification is associated with the
 algorithm applied during the data processing.&lt;/p&gt;
 &lt;img alt="" class="align-right" src="http://gauss.geofisica.ufrn.br/~ionosfera/zedias/aot/stationMap.png" style="width: 480.0px; height: 360.0px;" /&gt;
-&lt;p&gt;In the figure above, the circles indicates where each station is placed. The yellow and green colors
-are used to indicate the availability of level 1.5 and 2.0 data, respectively.&lt;/p&gt;
+&lt;p&gt;In the figure above, the circles indicates where each station is placed.&lt;/p&gt;
 </summary></entry><entry><title>Aerosol Data Validation in Brazil</title><link href="http://jdiasn.github.io/aot-validation.html" rel="alternate"></link><updated>2016-04-12T23:41:00-03:00</updated><author><name>Jose Dias</name></author><id>tag:jdiasn.github.io,2016-04-12:aot-validation.html</id><summary type="html">&lt;p&gt;In Oct. 28, 2011 the Suomi National Polar-orbiting Partnership spacecraft was launched.
 It is a result of a collaboration between NASA and NOAA.
 This spacecraft is composed by five sensors designed to monitor the Earth System.
