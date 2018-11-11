@@ -63,6 +63,10 @@ help:
 
 html:
 	$(PELICAN) $(INPUTDIR) -o $(OUTPUTDIR) -s $(CONFFILE) $(PELICANOPTS)
+	./replace
+
+
+
 
 clean:
 	[ ! -d $(OUTPUTDIR) ] || rm -rf $(OUTPUTDIR)
@@ -90,7 +94,11 @@ ifdef PORT
 	$(BASEDIR)/develop_server.sh restart $(PORT)
 else
 	$(BASEDIR)/develop_server.sh restart
+
 endif
+
+	./replace
+
 
 stopserver:
 	$(BASEDIR)/develop_server.sh stop
