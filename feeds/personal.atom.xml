@@ -1,5 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Jose Dias</title><link href="http://jdiasn.github.io/" rel="alternate"></link><link href="http://jdiasn.github.io/feeds/personal.atom.xml" rel="self"></link><id>http://jdiasn.github.io/</id><updated>2016-07-06T18:17:00-03:00</updated><entry><title>Embedding Bokeh Plot</title><link href="http://jdiasn.github.io/embed.html" rel="alternate"></link><updated>2016-07-06T18:17:00-03:00</updated><author><name>Jose Dias</name></author><id>tag:jdiasn.github.io,2016-07-06:embed.html</id><summary type="html">&lt;p&gt;It is a new possibility.&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Jose Dias - Personal</title><link href="http://jdiasn.github.io/" rel="alternate"></link><link href="http://jdiasn.github.io/feeds/personal.atom.xml" rel="self"></link><id>http://jdiasn.github.io/</id><updated>2016-07-06T18:17:00-03:00</updated><entry><title>Embedding Bokeh Plot</title><link href="http://jdiasn.github.io/embed.html" rel="alternate"></link><published>2016-07-06T18:17:00-03:00</published><updated>2016-07-06T18:17:00-03:00</updated><author><name>Jose Dias</name></author><id>tag:jdiasn.github.io,2016-07-06:/embed.html</id><summary type="html">&lt;p&gt;It is a new possibility.&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;
+&lt;link rel="stylesheet" href="https://cdn.pydata.org/bokeh/release/bokeh-0.11.1.min.css" type="text/css" /&gt;
+
+&lt;script type="text/javascript" src="https://cdn.pydata.org/bokeh/release/bokeh-0.11.1.min.js"&gt;&lt;/script&gt;
+&lt;script type="text/javascript"&gt;
+    Bokeh.set_log_level("info");
+&lt;/script&gt;
+
+
+        &lt;div class="plotdiv" id="3566e342-9bfe-4f98-a76d-f71eea7d5224"&gt;&lt;/div&gt;
+
+        &lt;script type="text/javascript"&gt;
+            Bokeh.$(function() {
+            var docs_json = {"e1e76743-5f14-4725-a962-026529feeccd":{"roots":{"references":[{"attributes":{"callback":null,"column_names":["ys","xs","line_color"],"data":{"line_color":["#C6DBEF","#9ECAE1","#6BAED6","#4292C6","#2171B5","#08519C","#08306B"],"xs":[[12.020815280171307,11.568002882338995,11.119439924612891,10.677836515963243,10.245608283435548,9.82486861865522,9.417429125234783,9.024806505620734,8.648235026864464 …&lt;/script&gt;&lt;/code&gt;&lt;/pre&gt;</summary><content type="html">&lt;p&gt;It is a new possibility.&lt;/p&gt;
 &lt;pre&gt;&lt;code&gt;
 &lt;link rel="stylesheet" href="https://cdn.pydata.org/bokeh/release/bokeh-0.11.1.min.css" type="text/css" /&gt;
 
@@ -20,7 +34,10 @@
         });
         &lt;/script&gt;
 
-&lt;/code&gt;&lt;/pre&gt;</summary></entry><entry><title>Photography</title><link href="http://jdiasn.github.io/photo.html" rel="alternate"></link><updated>2016-07-04T23:41:00-03:00</updated><author><name>Jose Dias</name></author><id>tag:jdiasn.github.io,2016-07-04:photo.html</id><summary type="html">&lt;p&gt;In 2007 I bought my first camera (an Olympus E-volt 500). It was as very good investment.
+&lt;/code&gt;&lt;/pre&gt;</content></entry><entry><title>Photography</title><link href="http://jdiasn.github.io/photo.html" rel="alternate"></link><published>2016-07-04T23:41:00-03:00</published><updated>2016-07-04T23:41:00-03:00</updated><author><name>Jose Dias</name></author><id>tag:jdiasn.github.io,2016-07-04:/photo.html</id><summary type="html">&lt;p&gt;In 2007 I bought my first camera (an Olympus E-volt 500). It was as very good investment.
+After that moment, I started to be in contact with the amazing world of photography and 
+learn about it. 
+Unfortunately, that camera broke. Currently, I'm using a Nikon D-5100 - which is as good …&lt;/p&gt;</summary><content type="html">&lt;p&gt;In 2007 I bought my first camera (an Olympus E-volt 500). It was as very good investment.
 After that moment, I started to be in contact with the amazing world of photography and 
 learn about it. 
 Unfortunately, that camera broke. Currently, I'm using a Nikon D-5100 - which is as good as 
@@ -37,9 +54,14 @@ best picture is that one below. &lt;/p&gt;
 &lt;script type='text/javascript' src='https://500px.com/embed.js'&gt;&lt;/script&gt;
 &lt;/code&gt;&lt;/pre&gt;
 
-&lt;p&gt;I have others beautiful pictures; they are hosted in my account at &lt;a href="https://500px.com/jdiasn"&gt;500px&lt;/a&gt;. &lt;/p&gt;</summary></entry><entry><title>Break Time</title><link href="http://jdiasn.github.io/first-picture.html" rel="alternate"></link><updated>2016-03-16T22:16:00-03:00</updated><author><name>Jose Dias</name></author><id>tag:jdiasn.github.io,2016-03-16:first-picture.html</id><summary type="html">&lt;div class="figure align-right"&gt;
+&lt;p&gt;I have others beautiful pictures; they are hosted in my account at &lt;a href="https://500px.com/jdiasn"&gt;500px&lt;/a&gt;. &lt;/p&gt;</content></entry><entry><title>Break Time</title><link href="http://jdiasn.github.io/first-picture.html" rel="alternate"></link><published>2016-03-16T22:16:00-03:00</published><updated>2016-03-16T22:16:00-03:00</updated><author><name>Jose Dias</name></author><id>tag:jdiasn.github.io,2016-03-16:/first-picture.html</id><summary type="html">&lt;div class="figure align-right"&gt;
 &lt;img alt="" src="http://jdiasn.github.io/images/DSC_0598.JPG" style="width: 492.8px; height: 326.4px;" /&gt;
 &lt;p class="caption"&gt;Expending Free Time&lt;/p&gt;
 &lt;/div&gt;
-</summary></entry><entry><title>My First Post</title><link href="http://jdiasn.github.io/my-first-post.html" rel="alternate"></link><updated>2015-03-15T23:12:00-03:00</updated><author><name>Jose Dias</name></author><id>tag:jdiasn.github.io,2015-03-15:my-first-post.html</id><summary type="html">&lt;p&gt;Hello World, my first post&lt;/p&gt;
-</summary></entry></feed>
+</summary><content type="html">&lt;div class="figure align-right"&gt;
+&lt;img alt="" src="http://jdiasn.github.io/images/DSC_0598.JPG" style="width: 492.8px; height: 326.4px;" /&gt;
+&lt;p class="caption"&gt;Expending Free Time&lt;/p&gt;
+&lt;/div&gt;
+</content></entry><entry><title>My First Post</title><link href="http://jdiasn.github.io/my-first-post.html" rel="alternate"></link><published>2015-03-15T23:12:00-03:00</published><updated>2015-03-15T23:12:00-03:00</updated><author><name>Jose Dias</name></author><id>tag:jdiasn.github.io,2015-03-15:/my-first-post.html</id><summary type="html">&lt;p&gt;Hello World, my first post&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;Hello World, my first post&lt;/p&gt;
+</content></entry></feed>

@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Jose Dias</title><link href="http://jdiasn.github.io/" rel="alternate"></link><link href="http://jdiasn.github.io/feeds/article.atom.xml" rel="self"></link><id>http://jdiasn.github.io/</id><updated>2016-05-11T17:55:00-03:00</updated><entry><title>Wien's law step by step</title><link href="http://jdiasn.github.io/test-md.html" rel="alternate"></link><updated>2016-05-11T17:55:00-03:00</updated><author><name>Jose Dias</name></author><id>tag:jdiasn.github.io,2016-05-11:test-md.html</id><summary type="html">&lt;p&gt;The Wein's displacement law is obtained from Planck's law.
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Jose Dias - article</title><link href="http://jdiasn.github.io/" rel="alternate"></link><link href="http://jdiasn.github.io/feeds/article.atom.xml" rel="self"></link><id>http://jdiasn.github.io/</id><updated>2016-05-11T17:55:00-03:00</updated><entry><title>Wien's law step by step</title><link href="http://jdiasn.github.io/test-md.html" rel="alternate"></link><published>2016-05-11T17:55:00-03:00</published><updated>2016-05-11T17:55:00-03:00</updated><author><name>Jose Dias</name></author><id>tag:jdiasn.github.io,2016-05-11:/test-md.html</id><summary type="html">&lt;p&gt;The Wein's displacement law is obtained from Planck's law.
+Wein's law states that the product between wavelength, for a maximum emissivity, and
+body's temperature &lt;span class="math"&gt;\((T)\)&lt;/span&gt;, is a constant. In other words, if we know the body's temperature,
+we'll be able to determine the wavelength were the maximum emissivity occur.&lt;/p&gt;
+&lt;p&gt;The …&lt;/p&gt;</summary><content type="html">&lt;p&gt;The Wein's displacement law is obtained from Planck's law.
 Wein's law states that the product between wavelength, for a maximum emissivity, and
 body's temperature &lt;span class="math"&gt;\((T)\)&lt;/span&gt;, is a constant. In other words, if we know the body's temperature,
 we'll be able to determine the wavelength were the maximum emissivity occur.&lt;/p&gt;
@@ -9,7 +13,7 @@ we'll be able to determine the wavelength were the maximum emissivity occur.&lt;
 B(T,\lambda) = \frac{2hc^{2}}{\lambda^{5}(exp(\frac{hc}{kT})-1)}
 \end{equation}&lt;/div&gt;
 &lt;p&gt;The figure below shows a family of emissivity curves for five values of &lt;span class="math"&gt;\(T\)&lt;/span&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;img alt="" src="http://gauss.geofisica.ufrn.br/~ionosfera/zedias/meteorologia/planck.png" style="float:right;width:90%;margin:10px" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" src="http://gauss.geofisica.ufrn.br/~ionosfera/zedias/meteorologia/planck.png" style="float:right;width:90%;margin:10px"&gt;&lt;/p&gt;
 &lt;p&gt;Hereafter, we'll show how the Wein's law cam be found.&lt;/p&gt;
 &lt;p&gt;For simplicity, let's define &lt;span class="math"&gt;\(\alpha\equiv 2hc^{2}\)&lt;/span&gt; and &lt;span class="math"&gt;\(\gamma\equiv \frac{hc}{kT}\)&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;Then, the equation \ref{eq1} becomes:&lt;/p&gt;
@@ -87,11 +91,9 @@ g=\frac{\gamma}{\lambda}=\frac{hc}{kT\lambda}=constant \Rightarrow {\lambda}{T}=
     }
 
     var mathjaxscript = document.createElement('script');
-    var location_protocol = (false) ? 'https' : document.location.protocol;
-    if (location_protocol !== 'http' &amp;&amp; location_protocol !== 'https') location_protocol = 'https:';
     mathjaxscript.id = 'mathjaxscript_pelican_#%@#$@#';
     mathjaxscript.type = 'text/javascript';
-    mathjaxscript.src = location_protocol + '//cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML';
+    mathjaxscript.src = 'https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.3/latest.js?config=TeX-AMS-MML_HTMLorMML';
     mathjaxscript[(window.opera ? "innerHTML" : "text")] =
         "MathJax.Hub.Config({" +
         "    config: ['MMLorHTML.js']," +
@@ -131,4 +133,4 @@ g=\frac{\gamma}{\lambda}=\frac{hc}{kT\lambda}=constant \Rightarrow {\lambda}{T}=
         "}";
     (document.body || document.getElementsByTagName('head')[0]).appendChild(mathjaxscript);
 }
-&lt;/script&gt;</summary></entry></feed>
+&lt;/script&gt;</content></entry></feed>
