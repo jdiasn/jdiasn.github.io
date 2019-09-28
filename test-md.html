@@ -95,7 +95,7 @@ we'll be able to determine the wavelength were the maximum emissivity occur.</p>
 B(T,\lambda) = \frac{2hc^{2}}{\lambda^{5}(exp(\frac{hc}{kT})-1)}
 \end{equation}</div>
 <p>The figure below shows a family of emissivity curves for five values of <span class="math">\(T\)</span>.</p>
-<p><img alt="" src="http://gauss.geofisica.ufrn.br/~ionosfera/zedias/meteorologia/planck.png" style="float:right;width:90%;margin:10px"></p>
+<p><img alt="" src="../images/planck.png" style="float:right;width:90%;margin:10px"></p>
 <p>Hereafter, we'll show how the Wein's law cam be found.</p>
 <p>For simplicity, let's define <span class="math">\(\alpha\equiv 2hc^{2}\)</span> and <span class="math">\(\gamma\equiv \frac{hc}{kT}\)</span></p>
 <p>Then, the equation \ref{eq1} becomes:</p>
@@ -176,10 +176,13 @@ g=\frac{\gamma}{\lambda}=\frac{hc}{kT\lambda}=constant \Rightarrow {\lambda}{T}=
     mathjaxscript.id = 'mathjaxscript_pelican_#%@#$@#';
     mathjaxscript.type = 'text/javascript';
     mathjaxscript.src = 'https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.3/latest.js?config=TeX-AMS-MML_HTMLorMML';
-    mathjaxscript[(window.opera ? "innerHTML" : "text")] =
+
+    var configscript = document.createElement('script');
+    configscript.type = 'text/x-mathjax-config';
+    configscript[(window.opera ? "innerHTML" : "text")] =
         "MathJax.Hub.Config({" +
         "    config: ['MMLorHTML.js']," +
-        "    TeX: { extensions: ['AMSmath.js','AMSsymbols.js','noErrors.js','noUndefined.js','color.js','mhchem.js'], equationNumbers: { autoNumber: 'AMS' } }," +
+        "    TeX: { extensions: ['AMSmath.js','AMSsymbols.js','noErrors.js','noUndefined.js','color.js','mhchem.js'], equationNumbers: { autoNumber: 'none' } }," +
         "    jax: ['input/TeX','input/MathML','output/HTML-CSS']," +
         "    extensions: ['tex2jax.js','mml2jax.js','MathMenu.js','MathZoom.js']," +
         "    displayAlign: '"+ align +"'," +
@@ -193,6 +196,8 @@ g=\frac{\gamma}{\lambda}=\frac{hc}{kT\lambda}=constant \Rightarrow {\lambda}{T}=
         "        preview: 'TeX'," +
         "    }, " +
         "    'HTML-CSS': { " +
+        "        availableFonts: ['STIX', 'TeX']," +
+        "        preferredFont: 'STIX'," +
         "        styles: { '.MathJax_Display, .MathJax .mo, .MathJax .mi, .MathJax .mn': {color: 'inherit ! important'} }," +
         "        linebreaks: { automatic: "+ linebreak +", width: '90% container' }," +
         "    }, " +
@@ -213,6 +218,8 @@ g=\frac{\gamma}{\lambda}=\frac{hc}{kT\lambda}=constant \Rightarrow {\lambda}{T}=
                 "VARIANT['-tex-mathit'].fonts.unshift('MathJax_default-italic');" +
             "});" +
         "}";
+
+    (document.body || document.getElementsByTagName('head')[0]).appendChild(configscript);
     (document.body || document.getElementsByTagName('head')[0]).appendChild(mathjaxscript);
 }
 </script>	
