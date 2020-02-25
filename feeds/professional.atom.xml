@@ -27,7 +27,7 @@ Five from these stations are placed in the Amazon Region and the four others are
 spread out over the remaining territory. The AOT measured data may be classified
 as level 1.5 and 2.0. This classification is associated with the
 algorithm applied during the data processing.&lt;/p&gt;
-&lt;img alt="" class="align-right" src="http://gauss.geofisica.ufrn.br/~ionosfera/zedias/aot/stationMap.png" style="width: 480.0px; height: 360.0px;" /&gt;
+&lt;img alt="" class="align-right" src="../images/stationMap.png" style="width: 480.0px; height: 360.0px;" /&gt;
 &lt;p&gt;In the figure above, the circles indicates where each station is placed.&lt;/p&gt;
 </content></entry><entry><title>Aerosol Data Validation in Brazil</title><link href="http://jdiasn.github.io/aot-validation.html" rel="alternate"></link><published>2016-04-12T23:41:00-03:00</published><updated>2016-04-12T23:41:00-03:00</updated><author><name>Jose Dias</name></author><id>tag:jdiasn.github.io,2016-04-12:/aot-validation.html</id><summary type="html">&lt;p&gt;In Oct. 28, 2011 the Suomi National Polar-orbiting Partnership spacecraft was launched.
 It is a result of a collaboration between NASA and NOAA.
@@ -44,7 +44,7 @@ environmental satellite data.&lt;/p&gt;
 Brazil. The core of this procedure is to compare AOT retrieved by VIIRS with AOT measured in the
 AERONET sites and with the AOT retrieved by &lt;a class="reference external" href="http://modis.gsfc.nasa.gov/about/"&gt;MODIS&lt;/a&gt; sensor. This project is under supervision of Dr.
 &lt;a class="reference external" href="http://lattes.cnpq.br/2921337850760630"&gt;Sievert&lt;/a&gt;.&lt;/p&gt;
-&lt;img alt="" class="align-right" src="http://gauss.geofisica.ufrn.br/%7Eionosfera/zedias/aot/edrAnalyses/spatialAverage/diff201406.png" style="width: 480.0px; height: 360.0px;" /&gt;
+&lt;img alt="" class="align-right" src="../images/diff201406.png" style="width: 480.0px; height: 360.0px;" /&gt;
 &lt;p&gt;The figure above shows the spatial difference for VIIRS and MODIS AOT data for June, 2014.
 The collection of results for this project is hosted in &lt;a class="reference external" href="http://gauss.geofisica.ufrn.br/~ionosfera/zedias/aot/"&gt;AOT Results&lt;/a&gt;.&lt;/p&gt;
 </content></entry></feed>
