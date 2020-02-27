@@ -18,9 +18,9 @@ B(T,\lambda) = \frac{2hc^{2}}{\lambda^{5}(exp(\frac{hc}{kT})-1)}
 
 The figure below shows a family of emissivity curves for five values of $T$.
 
-![](http://gauss.geofisica.ufrn.br/~ionosfera/zedias/meteorologia/planck.png){:style="float:right;width:90%;margin:10px"}
+![](../images/planck.png){:style="float:right;width:90%;margin:10px"}
 
-
+{!./home/jdias/projects/testsJupyter/lorenz}{caption}
 
 Hereafter, we'll show how the Wein's law cam be found.
 

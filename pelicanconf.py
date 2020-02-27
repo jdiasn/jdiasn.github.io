@@ -10,19 +10,17 @@ AUTHOR = u'Jose Dias'
 SITENAME = u'Jose Dias'
 SITEURL = ''
 
-#MARKUP = ('md','ipynb')
 PATH = 'content'
 
 #THEME = "/home/josedias/projects/pelican-themes/pelican-octopress-theme-master"
-THEME = "/home/josedias/projects/pelican-themes/waterspill-en"
-PLUGIN_PATHS = ['/home/josedias/projects/pelican-plugins']
+THEME = "/home/jdias/projects/pelican-themes/waterspill-en"
+PLUGIN_PATHS = ['/home/jdias/projects/pelican-plugins']
 PLUGINS = ['render_math','liquid_tags.img', 'liquid_tags.video',
            'liquid_tags.youtube', 'liquid_tags.vimeo',
-           'liquid_tags.include_code', 'liquid_tags.notebook']
+           'liquid_tags.include_code', 'liquid_tags.notebook','pelican_katex']
 
 
 MATH_JAX = {'tex_extensions': ['color.js','mhchem.js'], 'latex_preview':['Tex']}
-
 
 
 TIMEZONE = 'America/Sao_Paulo'
@@ -38,16 +36,21 @@ TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
-# Blogroll
-LINKS = (('Pelican', 'http://getpelican.com/'),
-         ('Python.org', 'http://python.org/'),
-         ('Jinja2', 'http://jinja.pocoo.org/'),
-         ('GitHub', 'https://github.com'),)
-
 # Social widget
-SOCIAL = (('500px', 'https://500px.com/jdiasn'),
+SOCIAL = (('ResearchGate', 'https://www.researchgate.net/profile/Jose_Neto111'),
+          ('ORCID','https://orcid.org/0000-0002-8488-8486'),
+          ('500px', 'https://500px.com/jdiasn'),
 	  ('Facebook','https://www.facebook.com/jose.dias.756')
           )
+
+# Blogroll
+LINKS = (#('Pelican', 'http://getpelican.com/'),
+         #('Python.org', 'http://python.org/'),
+         #('Jinja2', 'http://jinja.pocoo.org/'),
+         ('GitHub', 'https://github.com'),
+         ('Data Browser', 'http://gop.meteo.uni-koeln.de/~hatpro/dataBrowser/dataBrowser1.html'),
+         ('Working Folders','http://gop.meteo.uni-koeln.de/~jdias/folders/'),
+         )
 
 DEFAULT_PAGINATION = 10
 

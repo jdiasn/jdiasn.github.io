@@ -19,7 +19,7 @@ AERONET sites and with the AOT retrieved by `MODIS`_ sensor. This project is und
 `Sievert`_. 
 
 
-.. image:: http://gauss.geofisica.ufrn.br/%7Eionosfera/zedias/aot/edrAnalyses/spatialAverage/diff201406.png
+.. image:: ../images/diff201406.png
 	:height: 1800px
 	:width: 2400px
 	:scale: 20%

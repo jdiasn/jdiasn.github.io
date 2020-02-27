@@ -12,7 +12,7 @@ as level 1.5 and 2.0. This classification is associated with the
 algorithm applied during the data processing.  
 
 
-.. image:: http://gauss.geofisica.ufrn.br/~ionosfera/zedias/aot/stationMap.png
+.. image:: ../images/stationMap.png
 	:height: 600px
 	:width:	800px
 	:scale: 60%
