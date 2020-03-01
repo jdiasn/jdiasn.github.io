@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 
+import os
 from pyembed.rst import PyEmbedRst
 PyEmbedRst().register()
 
@@ -13,11 +14,12 @@ SITEURL = ''
 PATH = 'content'
 
 #THEME = "/home/josedias/projects/pelican-themes/pelican-octopress-theme-master"
-THEME = "/home/jdias/projects/pelican-themes/waterspill-en"
-PLUGIN_PATHS = ['/home/jdias/projects/pelican-plugins']
+home = os.environ['HOME']
+THEME = "{0}/projects/pelican-themes/waterspill-en".format(home)
+PLUGIN_PATHS = ["{0}/projects/pelican-plugins".format(home)]
 PLUGINS = ['render_math','liquid_tags.img', 'liquid_tags.video',
            'liquid_tags.youtube', 'liquid_tags.vimeo',
-           'liquid_tags.include_code', 'liquid_tags.notebook','pelican_katex']
+           'liquid_tags.include_code', 'liquid_tags.notebook']
 
 
 MATH_JAX = {'tex_extensions': ['color.js','mhchem.js'], 'latex_preview':['Tex']}
