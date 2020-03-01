@@ -6,7 +6,7 @@ NEW=" "
 
 echo "Replacing ...."
 
-DPATH="/home/josedias/projects/mySite/output/*.html"
+DPATH="$HOME/projects/mySite/output/*.html"
 
 for f in $DPATH
 do
@@ -20,7 +20,7 @@ do
   sed -i "s#$OLD2#$NEW#g" "$f" 
 done
 
-DPATH="/home/josedias/projects/mySite/output/category/*.html"
+DPATH="$HOME/projects/mySite/output/category/*.html"
 
 for f in $DPATH
 do
