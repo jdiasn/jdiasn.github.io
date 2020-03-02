@@ -8,7 +8,7 @@ Embedding Bokeh Plot
 This is a new functionality.
 
 .. raw:: html
-    :file: /home/jdias/projects/testsJupyter/lorenz.html
+    :file: lorenz.html
 
 
 
