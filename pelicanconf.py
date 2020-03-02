@@ -17,8 +17,8 @@ PATH = 'content'
 #home = os.environ['HOME']
 #THEME = "{0}/projects/pelican-themes/waterspill-en".format(home)
 #PLUGIN_PATHS = ["{0}/projects/pelican-plugins".format(home)]
-THEME = os.environ['THEME_PEL']
-PLUGIN_PATHS = os.environ['PLUGIN_PATHS_PEL']
+THEME = os.environ['THEME_PEL']+'/waterspill-en'
+PLUGIN_PATHS = [os.environ['PLUGIN_PATHS_PEL']]
 PLUGINS = ['render_math','liquid_tags.img', 'liquid_tags.video',
            'liquid_tags.youtube', 'liquid_tags.vimeo',
            'liquid_tags.include_code', 'liquid_tags.notebook']
