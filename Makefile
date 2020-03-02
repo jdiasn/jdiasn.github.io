@@ -98,6 +98,7 @@ else
 endif
 
 	./replace
+#	./replaceMac
 
 
 stopserver:
