@@ -20,8 +20,6 @@ The figure below shows a family of emissivity curves for five values of $T$.
 
 ![](../images/planck.png){:style="float:right;width:90%;margin:10px"}
 
-{!./home/jdias/projects/testsJupyter/lorenz}{caption}
-
 Hereafter, we'll show how the Wein's law cam be found.
 
 For simplicity, let's define $\alpha\equiv 2hc^{2}$ and $\gamma\equiv \frac{hc}{kT}$
