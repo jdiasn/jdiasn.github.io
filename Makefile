@@ -64,7 +64,7 @@ help:
 html:
 	$(PELICAN) $(INPUTDIR) -o $(OUTPUTDIR) -s $(CONFFILE) $(PELICANOPTS)
 	./replace
-
+#	./replaceMac
 
 
 
@@ -108,7 +108,7 @@ stopserver:
 publish:
 	$(PELICAN) $(INPUTDIR) -o $(OUTPUTDIR) -s $(PUBLISHCONF) $(PELICANOPTS)
 	./replace
-
+#	./replaceMac
 
 
 ssh_upload: publish
