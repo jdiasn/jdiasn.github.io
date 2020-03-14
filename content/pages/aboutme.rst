@@ -21,6 +21,8 @@ My CV: `Link <https://github.com/jdiasn/jdiasn.github.io/blob/content/content/pa
 
 **Publications**
 
+* **First Authored:**
+
 The TRIple-frequency and Polarimetric radar Experiment for improving process observations 
 of winter precipitation, *Earth Syst. Sci. Data*, **2019**, 11, 845-863. 
 `DOI: https://doi.org/10.5194/essd-11-845-2019 <https://doi.org/10.5194/essd-11-845-2019>`_
@@ -28,6 +30,16 @@ of winter precipitation, *Earth Syst. Sci. Data*, **2019**, 11, 845-863.
 Mathematical Adjustment Method for Validation of Longwave Radiation Sensor Measurements,
 *Revista Brasileira de Meteorologia*, **2016**, vol.31, n.1, pp.37-44. ISSN 0102-7786. 
 `DOI: http://dx.doi.org/10.1590/0102-778620140022 <http://dx.doi.org/10.1590/0102-778620140022>`_
+
+* **co-authored**
+
+Triple-frequency Doppler retrieval of characteristic raindrop size,
+*Earth and Space Science*, **2019**.
+`DOI: https://doi.org/10.1029/2019EA000789 <https://doi.org/10.1029/2019EA000789>`_
+
+Summer Snowfall Workshop: Scattering Properties of Realistic Frozen Hydrometeors from Simulations and Observations, as well as Defining a New Standard for Scattering Databases,
+*Bulletin of the American Meteorological Society*, **2018**.
+`DOI: https://doi.org/10.1175/BAMS-D-17-0208.1 <https://doi.org/10.1175/BAMS-D-17-0208.1>`_
 
 
 **In Preparation**

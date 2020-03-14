@@ -1,4 +1,4 @@
-Title: Radar Conference in Japan
+Title: 2nd Best talk at the Radar Conference in Japan
 Date: 2019-10-20
 Category: Professional
 Slug: radar-conference-2019

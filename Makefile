@@ -66,8 +66,6 @@ html:
 	./replace
 #	./replaceMac
 
-
-
 clean:
 	[ ! -d $(OUTPUTDIR) ] || rm -rf $(OUTPUTDIR)
 
