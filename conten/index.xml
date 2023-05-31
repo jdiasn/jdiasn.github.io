@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Contens on J.Dias</title>
+    <link>http://example.org/conten/</link>
+    <description>Recent content in Contens on J.Dias</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 25 May 2023 23:37:41 +0200</lastBuildDate><atom:link href="http://example.org/conten/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Post.pirata</title>
+      <link>http://example.org/conten/post/post.pirata/</link>
+      <pubDate>Thu, 25 May 2023 23:37:41 +0200</pubDate>
+      
+      <guid>http://example.org/conten/post/post.pirata/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
