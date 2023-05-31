@@ -2,101 +2,101 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>J.Dias</title>
-    <link>http://example.org/</link>
+    <link>http://jdiasn.github.io/</link>
     <description>Recent content on J.Dias</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 25 May 2023 23:37:41 +0200</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 25 May 2023 23:37:41 +0200</lastBuildDate><atom:link href="http://jdiasn.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Post.pirata</title>
-      <link>http://example.org/conten/post/post.pirata/</link>
+      <link>http://jdiasn.github.io/conten/post/post.pirata/</link>
       <pubDate>Thu, 25 May 2023 23:37:41 +0200</pubDate>
       
-      <guid>http://example.org/conten/post/post.pirata/</guid>
+      <guid>http://jdiasn.github.io/conten/post/post.pirata/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Main content</title>
-      <link>http://example.org/main_content/</link>
+      <link>http://jdiasn.github.io/main_content/</link>
       <pubDate>Mon, 22 May 2023 00:19:02 +0200</pubDate>
       
-      <guid>http://example.org/main_content/</guid>
+      <guid>http://jdiasn.github.io/main_content/</guid>
       <description>May new content that should be online</description>
     </item>
     
     <item>
       <title>Test</title>
-      <link>http://example.org/test/</link>
+      <link>http://jdiasn.github.io/test/</link>
       <pubDate>Sun, 21 May 2023 23:06:03 +0200</pubDate>
       
-      <guid>http://example.org/test/</guid>
+      <guid>http://jdiasn.github.io/test/</guid>
       <description>Introduction This is bold text, and this is emphasized text.
 Visit the Hugo website!</description>
     </item>
     
     <item>
       <title>2nd Best talk at the Radar Conference in Japan</title>
-      <link>http://example.org/post/post.rad.conf/</link>
+      <link>http://jdiasn.github.io/post/post.rad.conf/</link>
       <pubDate>Sun, 20 Oct 2019 23:20:03 +0200</pubDate>
       
-      <guid>http://example.org/post/post.rad.conf/</guid>
+      <guid>http://jdiasn.github.io/post/post.rad.conf/</guid>
       <description>From the 16th to 20th of September 2019, I attended the 39th International Conference on Radar Meteorolog y in Nara (Japan). It is one of the largest conferences related to radar meteorology. This edition was th e largest one with 158 talks and 329 posters which covered a large variety of topics such as new radar te chnology, data quality control, data processing, cloud microphysics, and of observation of extreme convec tive systems.</description>
     </item>
     
     <item>
       <title>Photography</title>
-      <link>http://example.org/post/photo/</link>
+      <link>http://jdiasn.github.io/post/photo/</link>
       <pubDate>Mon, 04 Jul 2016 21:31:30 +0200</pubDate>
       
-      <guid>http://example.org/post/photo/</guid>
+      <guid>http://jdiasn.github.io/post/photo/</guid>
       <description>In 2007 I bought my first camera (an Olympus E-volt 500). It was as very good investment. After that moment, I started to be in contact with the amazing world of photography and learn about it. Unfortunately, that camera broke. Currently, I&amp;rsquo;m using a Nikon D-5100 - which is as good as my first camera.
 Since I begun this new hobby I have been taking photos of different things. I believe that my best picture is that one below.</description>
     </item>
     
     <item>
       <title>PIRATA Project 2013</title>
-      <link>http://example.org/post/post.pirata/</link>
+      <link>http://jdiasn.github.io/post/post.pirata/</link>
       <pubDate>Sun, 03 Jul 2016 23:37:54 +0200</pubDate>
       
-      <guid>http://example.org/post/post.pirata/</guid>
+      <guid>http://jdiasn.github.io/post/post.pirata/</guid>
       <description>In 2013, I had opportunity to participate on the scientific team of a PIRATA cruise aboard R/V OCEAN STALWART. Our main activity was to maintain nine oceanic buoys from that project. Between each buoy, we measured atmospheric and oceanic variables. The instruments used for those measurements were: atmospheric balloon soundings, expendable current profilers (XCP), and UnderwayCTDs. I performed some of this measurements using these sensors.
 The picture above shows the moment in which I&amp;rsquo;m disassembling the buoy and the OCEAN STALWART Vessel (more pictures).</description>
     </item>
     
     <item>
       <title>About</title>
-      <link>http://example.org/about/</link>
+      <link>http://jdiasn.github.io/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/about/</guid>
+      <guid>http://jdiasn.github.io/about/</guid>
       <description>Hi, I am José, a physicist. Since my firsts years in physics undergrad, I became interested in learning about the physics that rules the atmospheric processes. While I was still an undergrad student, I used the signal transmitted by satellites to study changes in the density of ions in the outermost layer of the atmosphere. Since then, I have been using remote sensing observations to study the various atmospheric processes.</description>
     </item>
     
     <item>
       <title>Album</title>
-      <link>http://example.org/album/</link>
+      <link>http://jdiasn.github.io/album/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/album/</guid>
+      <guid>http://jdiasn.github.io/album/</guid>
       <description>Working For Fun Cooking </description>
     </item>
     
     <item>
       <title>Generic Page</title>
-      <link>http://example.org/generic-page/</link>
+      <link>http://jdiasn.github.io/generic-page/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/generic-page/</guid>
+      <guid>http://jdiasn.github.io/generic-page/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam sit amet dui nec dui commodo auctor non eu mauris. Duis varius finibus vestibulum. Praesent aliquam, erat sed dictum feugiat, velit erat iaculis elit, eget iaculis ex libero ac sapien. Sed maximus ut lectus et varius. Nullam posuere velit vitae est consectetur porttitor. Vestibulum tempor felis ante, nec volutpat risus vestibulum ac. Mauris at finibus felis, eu placerat arcu. Sed nec semper nunc.</description>
     </item>
     
     <item>
       <title>Generic Page - Versión Español</title>
-      <link>http://example.org/generic-page/</link>
+      <link>http://jdiasn.github.io/generic-page/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/generic-page/</guid>
+      <guid>http://jdiasn.github.io/generic-page/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam sit amet dui nec dui commodo auctor non eu mauris. Duis varius finibus vestibulum. Praesent aliquam, erat sed dictum feugiat, velit erat iaculis elit, eget iaculis ex libero ac sapien. Sed maximus ut lectus et varius. Nullam posuere velit vitae est consectetur porttitor. Vestibulum tempor felis ante, nec volutpat risus vestibulum ac. Mauris at finibus felis, eu placerat arcu. Sed nec semper nunc.</description>
     </item>
     
