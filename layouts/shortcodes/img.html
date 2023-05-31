@@ -1,0 +1,13 @@
+{{- $alt := .Get "alt" -}}
+{{- $width := .Get "width" -}}
+{{- $res := resources.GetMatch (.Get "src") -}}
+
+<figure>
+  <img
+    src="{{ $res.RelPermalink }}"
+    alt="{{ $alt }}"
+    width="{{ $width }}"
+    height="auto"/>
+  <figcaption>{{ $alt }}</figcaption>
+</figure>
+
