@@ -3,8 +3,11 @@ title: "Photography"
 date: 2016-07-04T21:31:30+02:00
 slug: photo
 draft: true
+image: https://drscdn.500px.org/photo/98691237/m%3D900/v2?sig=37a3c6409799881f1e95e80f331a2eddfe88f606081c4234dc5e9a3da4984ad2
+
 ---
 
+<!---
 {{< rawhtml >}}
 <pre><code>
 <div class='pixels-photo'>
@@ -16,7 +19,7 @@ draft: true
 <script type='text/javascript' src='https://500px.com/embed.js'></script>
 </code></pre>
 {{< /rawhtml >}}
-
+--->
 
 
 In 2007 I bought my first camera (an Olympus E-volt 500). It was as very good investment.
