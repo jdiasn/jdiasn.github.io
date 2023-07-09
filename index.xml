@@ -17,15 +17,6 @@
     </item>
     
     <item>
-      <title>Main content</title>
-      <link>http://jdiasn.github.io/main_content/</link>
-      <pubDate>Mon, 22 May 2023 00:19:02 +0200</pubDate>
-      
-      <guid>http://jdiasn.github.io/main_content/</guid>
-      <description>May new content that should be online</description>
-    </item>
-    
-    <item>
       <title>Test</title>
       <link>http://jdiasn.github.io/test/</link>
       <pubDate>Sun, 21 May 2023 23:06:03 +0200</pubDate>
@@ -45,6 +36,15 @@ Visit the Hugo website!</description>
     </item>
     
     <item>
+      <title>Generic Page</title>
+      <link>http://jdiasn.github.io/research/test/</link>
+      <pubDate>Sun, 20 Oct 2019 23:20:03 +0200</pubDate>
+      
+      <guid>http://jdiasn.github.io/research/test/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam sit amet dui nec dui commodo auctor non eu mauris. Duis varius finibus vestibulum. Praesent aliquam, erat sed dictum feugiat, velit erat iaculis elit, eget iaculis ex libero ac sapien. Sed maximus ut lectus et varius. Nullam posuere velit vitae est consectetur porttitor. Vestibulum tempor felis ante, nec volutpat risus vestibulum ac. Mauris at finibus felis, eu placerat arcu. Sed nec semper nunc.</description>
+    </item>
+    
+    <item>
       <title>Photography</title>
       <link>http://jdiasn.github.io/post/photo/</link>
       <pubDate>Mon, 04 Jul 2016 21:31:30 +0200</pubDate>
@@ -61,7 +61,16 @@ Since I begun this new hobby I have been taking photos of different things. I be
       
       <guid>http://jdiasn.github.io/post/post.pirata/</guid>
       <description>In 2013, I had opportunity to participate on the scientific team of a PIRATA cruise aboard R/V OCEAN STALWART. Our main activity was to maintain nine oceanic buoys from that project. Between each buoy, we measured atmospheric and oceanic variables. The instruments used for those measurements were: atmospheric balloon soundings, expendable current profilers (XCP), and UnderwayCTDs. I performed some of this measurements using these sensors.
-The picture above shows the moment in which I&amp;rsquo;m disassembling the buoy and the OCEAN STALWART Vessel (more pictures).</description>
+The picture above shows the moment in which I&amp;rsquo;m disassembling the buoy somewhere in the middle of the Atlantic Ocean (more pictures).</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://jdiasn.github.io/research/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://jdiasn.github.io/research/</guid>
+      <description>On the interaction between clouds and wind How is the interaction between clouds and the wind? Does the change in clouds also trigger changes in the wind? Does the change in wind change the clouds? What is the contribution of the different scale processes to the vertical transport of momentum? Those are the fundamental questions that guide my current research activities as a Post Doc at Delft University of Technology.</description>
     </item>
     
     <item>
