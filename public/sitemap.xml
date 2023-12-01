@@ -2,82 +2,48 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://example.org/post/lorem-ipsum/</loc>
-    <lastmod>2022-03-29T00:00:00+00:00</lastmod>
+    <loc>http://jdiasn.github.io/conten/</loc>
+    <lastmod>2023-05-25T23:37:41+02:00</lastmod>
   </url><url>
-    <loc>http://example.org/post/lorem-ipsum/</loc>
-    <lastmod>2022-03-29T00:00:00+00:00</lastmod>
+    <loc>http://jdiasn.github.io/</loc>
+    <lastmod>2023-05-25T23:37:41+02:00</lastmod>
   </url><url>
-    <loc>http://example.org/post/</loc>
-    <lastmod>2022-03-29T00:00:00+00:00</lastmod>
+    <loc>http://jdiasn.github.io/conten/post/post.pirata/</loc>
+    <lastmod>2023-05-25T23:37:41+02:00</lastmod>
   </url><url>
-    <loc>http://example.org/</loc>
-    <lastmod>2022-03-29T00:00:00+00:00</lastmod>
+    <loc>http://jdiasn.github.io/test/</loc>
+    <lastmod>2023-05-21T23:06:03+02:00</lastmod>
   </url><url>
-    <loc>http://example.org/post/comments-example/</loc>
-    <lastmod>2019-08-15T00:00:00+00:00</lastmod>
+    <loc>http://jdiasn.github.io/post/post.rad.conf/</loc>
+    <lastmod>2019-10-20T23:20:03+02:00</lastmod>
   </url><url>
-    <loc>http://example.org/post/comments-example/</loc>
-    <lastmod>2019-08-15T00:00:00+00:00</lastmod>
+    <loc>http://jdiasn.github.io/research/test/</loc>
+    <lastmod>2019-10-20T23:20:03+02:00</lastmod>
   </url><url>
-    <loc>http://example.org/post/post2/</loc>
-    <lastmod>2019-04-18T00:00:00+00:00</lastmod>
+    <loc>http://jdiasn.github.io/post/</loc>
+    <lastmod>2019-10-20T23:20:03+02:00</lastmod>
   </url><url>
-    <loc>http://example.org/post/post2/</loc>
-    <lastmod>2019-04-18T00:00:00+00:00</lastmod>
+    <loc>http://jdiasn.github.io/research/</loc>
+    <lastmod>2019-10-20T23:20:03+02:00</lastmod>
   </url><url>
-    <loc>http://example.org/post/post5/</loc>
-    <lastmod>2019-04-14T00:00:00+00:00</lastmod>
+    <loc>http://jdiasn.github.io/post/photo/</loc>
+    <lastmod>2016-07-04T21:31:30+02:00</lastmod>
   </url><url>
-    <loc>http://example.org/post/post5/</loc>
-    <lastmod>2019-04-14T00:00:00+00:00</lastmod>
+    <loc>http://jdiasn.github.io/post/post.pirata/</loc>
+    <lastmod>2016-07-03T23:37:54+02:00</lastmod>
   </url><url>
-    <loc>http://example.org/post/post4/</loc>
-    <lastmod>2019-04-11T00:00:00+00:00</lastmod>
+    <loc>http://jdiasn.github.io/research/</loc>
   </url><url>
-    <loc>http://example.org/post/post4/</loc>
-    <lastmod>2019-04-11T00:00:00+00:00</lastmod>
+    <loc>http://jdiasn.github.io/about/</loc>
   </url><url>
-    <loc>http://example.org/post/post3/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
+    <loc>http://jdiasn.github.io/album/</loc>
   </url><url>
-    <loc>http://example.org/post/post3/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
+    <loc>http://jdiasn.github.io/categories/</loc>
   </url><url>
-    <loc>http://example.org/post/post6/</loc>
-    <lastmod>2019-03-22T00:00:00+00:00</lastmod>
+    <loc>http://jdiasn.github.io/generic-page/</loc>
   </url><url>
-    <loc>http://example.org/post/post6/</loc>
-    <lastmod>2019-03-22T00:00:00+00:00</lastmod>
+    <loc>http://jdiasn.github.io/generic-page/</loc>
   </url><url>
-    <loc>http://example.org/post/post7/</loc>
-    <lastmod>2019-03-18T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://example.org/post/post7/</loc>
-    <lastmod>2019-03-18T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://example.org/post/post8/</loc>
-    <lastmod>2019-03-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://example.org/post/post8/</loc>
-    <lastmod>2019-03-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://example.org/post/post/</loc>
-    <lastmod>2012-02-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://example.org/post/post/</loc>
-    <lastmod>2012-02-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://example.org/categories/</loc>
-  </url><url>
-    <loc>http://example.org/generic-page/</loc>
-  </url><url>
-    <loc>http://example.org/generic-page/</loc>
-  </url><url>
-    <loc>http://example.org/post/post1/</loc>
-  </url><url>
-    <loc>http://example.org/post/post1/</loc>
-  </url><url>
-    <loc>http://example.org/tags/</loc>
+    <loc>http://jdiasn.github.io/tags/</loc>
   </url>
 </urlset>
