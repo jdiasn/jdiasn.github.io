@@ -1,7 +1,7 @@
 ---
 title: "2nd Best talk at the Radar Conference in Japan"
 date: 2019-10-20T23:20:03+02:00
-image: "https://scontent-ams4-1.xx.fbcdn.net/v/t1.6435-9/88106168_2750772014959166_5181941410571485184_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=cdbe9c&_nc_ohc=-P_OI9nnYO4AX-xOryI&_nc_ht=scontent-ams4-1.xx&oh=00_AfBAO67nbScVdzR70WWVEjPEl24XuOzACE1wa8us0EXPiQ&oe=64A0807C"
+image: /images/japan_conf.jpg
 draft: true
 ---
 
