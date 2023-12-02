@@ -6,108 +6,94 @@
     <description>Recent content on J.Dias</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 25 May 2023 23:37:41 +0200</lastBuildDate><atom:link href="http://jdiasn.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 04 Oct 2023 21:31:30 +0200</lastBuildDate>
+    <atom:link href="http://jdiasn.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Directional bike lights</title>
+      <link>http://jdiasn.github.io/post/bike/</link>
+      <pubDate>Wed, 04 Oct 2023 21:31:30 +0200</pubDate>
+      <guid>http://jdiasn.github.io/post/bike/</guid>
+      <description>If you are a biker, you may have faced the challenge of indicating the direction you want to turn in poor light conditions. I had experienced this situation often while biking, especially during wintertime. Because of that, I decided to develop, from scratch, a set of directional lights for my own bicycle. To develop this project, I combined an Arduino micro, RGB-LED stripe and other electronic components. My main idea was to use the Arduino to read and interpret the signal sent from buttons mounted on the handlebar and control the RGB-LED stripe (e.</description>
+    </item>
     <item>
       <title>Post.pirata</title>
       <link>http://jdiasn.github.io/conten/post/post.pirata/</link>
       <pubDate>Thu, 25 May 2023 23:37:41 +0200</pubDate>
-      
       <guid>http://jdiasn.github.io/conten/post/post.pirata/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Test</title>
       <link>http://jdiasn.github.io/test/</link>
       <pubDate>Sun, 21 May 2023 23:06:03 +0200</pubDate>
-      
       <guid>http://jdiasn.github.io/test/</guid>
       <description>Introduction This is bold text, and this is emphasized text.
 Visit the Hugo website!</description>
     </item>
-    
     <item>
       <title>2nd Best talk at the Radar Conference in Japan</title>
       <link>http://jdiasn.github.io/post/post.rad.conf/</link>
       <pubDate>Sun, 20 Oct 2019 23:20:03 +0200</pubDate>
-      
       <guid>http://jdiasn.github.io/post/post.rad.conf/</guid>
       <description>From the 16th to 20th of September 2019, I attended the 39th International Conference on Radar Meteorolog y in Nara (Japan). It is one of the largest conferences related to radar meteorology. This edition was th e largest one with 158 talks and 329 posters which covered a large variety of topics such as new radar te chnology, data quality control, data processing, cloud microphysics, and of observation of extreme convec tive systems.</description>
     </item>
-    
     <item>
       <title>Generic Page</title>
       <link>http://jdiasn.github.io/research/test/</link>
       <pubDate>Sun, 20 Oct 2019 23:20:03 +0200</pubDate>
-      
       <guid>http://jdiasn.github.io/research/test/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam sit amet dui nec dui commodo auctor non eu mauris. Duis varius finibus vestibulum. Praesent aliquam, erat sed dictum feugiat, velit erat iaculis elit, eget iaculis ex libero ac sapien. Sed maximus ut lectus et varius. Nullam posuere velit vitae est consectetur porttitor. Vestibulum tempor felis ante, nec volutpat risus vestibulum ac. Mauris at finibus felis, eu placerat arcu. Sed nec semper nunc.</description>
     </item>
-    
     <item>
       <title>Photography</title>
       <link>http://jdiasn.github.io/post/photo/</link>
       <pubDate>Mon, 04 Jul 2016 21:31:30 +0200</pubDate>
-      
       <guid>http://jdiasn.github.io/post/photo/</guid>
       <description>In 2007 I bought my first camera (an Olympus E-volt 500). It was as very good investment. After that moment, I started to be in contact with the amazing world of photography and learn about it. Unfortunately, that camera broke. Currently, I&amp;rsquo;m using a Nikon D-5100 - which is as good as my first camera.
 Since I begun this new hobby I have been taking photos of different things. I believe that my best picture is that one below.</description>
     </item>
-    
     <item>
       <title>PIRATA Project 2013</title>
       <link>http://jdiasn.github.io/post/post.pirata/</link>
       <pubDate>Sun, 03 Jul 2016 23:37:54 +0200</pubDate>
-      
       <guid>http://jdiasn.github.io/post/post.pirata/</guid>
       <description>In 2013, I had opportunity to participate on the scientific team of a PIRATA cruise aboard R/V OCEAN STALWART. Our main activity was to maintain nine oceanic buoys from that project. Between each buoy, we measured atmospheric and oceanic variables. The instruments used for those measurements were: atmospheric balloon soundings, expendable current profilers (XCP), and UnderwayCTDs. I performed some of this measurements using these sensors.
 The picture above shows the moment in which I&amp;rsquo;m disassembling the buoy somewhere in the middle of the Atlantic Ocean (more pictures).</description>
     </item>
-    
     <item>
       <title></title>
       <link>http://jdiasn.github.io/research/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>http://jdiasn.github.io/research/</guid>
       <description>On the interaction between clouds and wind How is the interaction between clouds and the wind? Does the change in clouds also trigger changes in the wind? Does the change in wind change the clouds? What is the contribution of the different scale processes to the vertical transport of momentum? Those are the fundamental questions that guide my current research activities as a Post Doc at Delft University of Technology under the supervision of Dr Louise Nuijens.</description>
     </item>
-    
     <item>
       <title>About</title>
       <link>http://jdiasn.github.io/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>http://jdiasn.github.io/about/</guid>
       <description>Hi, I am José, a physicist. Since my firsts years in physics undergrad, I became interested in learning about the physics that rules the atmospheric processes. While I was still an undergrad student, I used the signal transmitted by satellites to study changes in the density of ions in the outermost layer of the atmosphere. Since then, I have been using remote sensing observations to study the various atmospheric processes.</description>
     </item>
-    
     <item>
       <title>Album</title>
       <link>http://jdiasn.github.io/album/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>http://jdiasn.github.io/album/</guid>
       <description>Working For Fun Cooking </description>
     </item>
-    
     <item>
       <title>Generic Page</title>
       <link>http://jdiasn.github.io/generic-page/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>http://jdiasn.github.io/generic-page/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam sit amet dui nec dui commodo auctor non eu mauris. Duis varius finibus vestibulum. Praesent aliquam, erat sed dictum feugiat, velit erat iaculis elit, eget iaculis ex libero ac sapien. Sed maximus ut lectus et varius. Nullam posuere velit vitae est consectetur porttitor. Vestibulum tempor felis ante, nec volutpat risus vestibulum ac. Mauris at finibus felis, eu placerat arcu. Sed nec semper nunc.</description>
     </item>
-    
     <item>
       <title>Generic Page - Versión Español</title>
       <link>http://jdiasn.github.io/generic-page/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>http://jdiasn.github.io/generic-page/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam sit amet dui nec dui commodo auctor non eu mauris. Duis varius finibus vestibulum. Praesent aliquam, erat sed dictum feugiat, velit erat iaculis elit, eget iaculis ex libero ac sapien. Sed maximus ut lectus et varius. Nullam posuere velit vitae est consectetur porttitor. Vestibulum tempor felis ante, nec volutpat risus vestibulum ac. Mauris at finibus felis, eu placerat arcu. Sed nec semper nunc.</description>
     </item>
-    
   </channel>
 </rss>

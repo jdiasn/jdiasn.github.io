@@ -6,35 +6,37 @@
     <description>Recent content in Posts on J.Dias</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 20 Oct 2019 23:20:03 +0200</lastBuildDate><atom:link href="http://jdiasn.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 04 Oct 2023 21:31:30 +0200</lastBuildDate>
+    <atom:link href="http://jdiasn.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Directional bike lights</title>
+      <link>http://jdiasn.github.io/post/bike/</link>
+      <pubDate>Wed, 04 Oct 2023 21:31:30 +0200</pubDate>
+      <guid>http://jdiasn.github.io/post/bike/</guid>
+      <description>If you are a biker, you may have faced the challenge of indicating the direction you want to turn in poor light conditions. I had experienced this situation often while biking, especially during wintertime. Because of that, I decided to develop, from scratch, a set of directional lights for my own bicycle. To develop this project, I combined an Arduino micro, RGB-LED stripe and other electronic components. My main idea was to use the Arduino to read and interpret the signal sent from buttons mounted on the handlebar and control the RGB-LED stripe (e.</description>
+    </item>
     <item>
       <title>2nd Best talk at the Radar Conference in Japan</title>
       <link>http://jdiasn.github.io/post/post.rad.conf/</link>
       <pubDate>Sun, 20 Oct 2019 23:20:03 +0200</pubDate>
-      
       <guid>http://jdiasn.github.io/post/post.rad.conf/</guid>
       <description>From the 16th to 20th of September 2019, I attended the 39th International Conference on Radar Meteorolog y in Nara (Japan). It is one of the largest conferences related to radar meteorology. This edition was th e largest one with 158 talks and 329 posters which covered a large variety of topics such as new radar te chnology, data quality control, data processing, cloud microphysics, and of observation of extreme convec tive systems.</description>
     </item>
-    
     <item>
       <title>Photography</title>
       <link>http://jdiasn.github.io/post/photo/</link>
       <pubDate>Mon, 04 Jul 2016 21:31:30 +0200</pubDate>
-      
       <guid>http://jdiasn.github.io/post/photo/</guid>
       <description>In 2007 I bought my first camera (an Olympus E-volt 500). It was as very good investment. After that moment, I started to be in contact with the amazing world of photography and learn about it. Unfortunately, that camera broke. Currently, I&amp;rsquo;m using a Nikon D-5100 - which is as good as my first camera.
 Since I begun this new hobby I have been taking photos of different things. I believe that my best picture is that one below.</description>
     </item>
-    
     <item>
       <title>PIRATA Project 2013</title>
       <link>http://jdiasn.github.io/post/post.pirata/</link>
       <pubDate>Sun, 03 Jul 2016 23:37:54 +0200</pubDate>
-      
       <guid>http://jdiasn.github.io/post/post.pirata/</guid>
       <description>In 2013, I had opportunity to participate on the scientific team of a PIRATA cruise aboard R/V OCEAN STALWART. Our main activity was to maintain nine oceanic buoys from that project. Between each buoy, we measured atmospheric and oceanic variables. The instruments used for those measurements were: atmospheric balloon soundings, expendable current profilers (XCP), and UnderwayCTDs. I performed some of this measurements using these sensors.
 The picture above shows the moment in which I&amp;rsquo;m disassembling the buoy somewhere in the middle of the Atlantic Ocean (more pictures).</description>
     </item>
-    
   </channel>
 </rss>
