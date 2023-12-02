@@ -1,0 +1,188 @@
+<!DOCTYPE HTML>
+
+<html lang='en'>
+	<head>
+		<title>Directional bike lights &middot; J.Dias</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		
+		
+		
+		<link rel="stylesheet" href="/assets/css/main.min.css">
+		
+		
+		
+		<noscript><link rel="stylesheet" href='/assets/css/noscript.css' /></noscript>
+		
+	</head>
+
+	<body lang='en' class="is-preload">
+
+		
+			<div id="wrapper">
+
+                
+<header id="header">
+    <a href='/' class="logo">J.Dias</a>
+</header>
+
+                
+
+
+<nav id="nav">
+    <ul class="links">
+        <li class=""><a href='/'>J.Dias</a></li><li class=""><a href='/about'>About</a></li><li class=""><a href='/research'>Research</a></li><li class=""><a href='/#header'>Posts</a></li><li class=""><a href='/album'>Album</a></li>
+        
+    </ul>
+    
+    <ul class="icons">
+        
+        
+        
+        <li><a href="https://instagram.com/jose.dias.756/" class="icon fa-instagram"><span class="label">Instagram</span></a></li>
+        
+        
+        <li><a href="https://www.linkedin.com/in/jos%c3%a9-dias-4a141019a/" class="icon fa-linkedin"><span class="label">LinkedIn</span></a></li>
+        
+        
+        <li><a href="https://github.com/jdiasn" class="icon fa-github"><span class="label">GitHub</span></a></li>
+        
+        
+        <li><a href="https://youtube.com/@jdiasn" class="icon fa-youtube"><span class="label">Youtube</span></a></li>
+        
+        
+        
+        
+    </ul>
+    
+</nav>
+
+
+				
+					<div id="main">
+
+						
+                        <section class="post">
+                            <header class="major">
+                                
+                                <span class="date">October 4, 2023</span>
+                                
+                                <h1>Directional bike lights</h1>
+                                <p></p>
+                            </header>
+                            
+                            <div class="image main"><img src="/images/IMG_2445.jpg" alt="" /></div>
+                            
+                            <p>If you are a biker, you may have faced the challenge of indicating the direction you want to turn in poor light conditions. I had experienced this situation often while biking, especially during wintertime. Because of that, I decided to develop, from scratch, a set of directional lights for my own bicycle. To develop this project, I combined an Arduino micro, RGB-LED stripe and other electronic components. My main idea was to use the Arduino to read and interpret the signal sent from buttons mounted on the handlebar and control the RGB-LED stripe (e.g. colour, blink frequency, intensity, etc). Below is a picture of the initial bench test I did while prototyping the electronics and developing the Arduino code.</p>
+<figure>
+  <img
+    src="/images/bench.jpg"
+    alt=""
+    width="70% q75"
+    height="auto"/>
+  <figcaption></figcaption>
+</figure>
+
+
+<p>When the software and the electronics were ready, I started building the hardware and the housing for the electronics. For housing for the RGB stripes, I used PVC tubes for electrical installations. I made some cuts to the tubes to make the RGB stripe visible and then coated the external and internal parts of the tube with black and white paint. The building result can be seen in the picture below.</p>
+<figure>
+  <img
+    src="/images/lights.jpg"
+    alt=""
+    width="100% q75"
+    height="auto"/>
+  <figcaption></figcaption>
+</figure>
+
+
+<p>I used a multi-purpose plastic box to house the Arduino and the additional electronic board. I am using this additional board to interface the Arduino and the other components (push buttons and RGB-LED stripes). The board receives the input signal and translates it into a signal that can be understood by the Arduino; it also gets the Arduino response and sends it to the RGB-LED stripes. The picture below shows the assembly of the additional board (fig A) and the mounting of the different components within the housing box (fig B, C). The light activation and switching between different modes is done by pressing the push buttons I installed on the handlebar (fig D).</p>
+<figure>
+  <img
+    src="/images/components.jpg"
+    alt=""
+    width="100% q75"
+    height="auto"/>
+  <figcaption></figcaption>
+</figure>
+
+
+<p>Finally, when all the parts were ready, it was time to mount them on the bike. The first test after the mounting is visible in the heading picture and in the following short video. Soon, I will build the rear light set.</p>
+
+ 
+
+<video width=70% controls>
+    <source src="/images/IMG_2449.webm" type="video/webm">
+    Your browser does not support the video tag.  
+</video>
+
+
+
+
+                            
+                            
+                            
+                            
+                            
+                        </section>
+
+					</div>
+
+                    
+
+<footer id="footer">
+    
+    <section class="split contact">
+        
+        
+        
+        
+        <section>
+            <h3>Social</h3>
+            <ul class="icons alt">
+                
+                
+                
+                <li><a href="https://instagram.com/jose.dias.756/" class="icon alt fa-instagram"><span class="label">Instagram</span></a></li>
+                
+                
+                <li><a href="https://www.linkedin.com/in/jos%c3%a9-dias-4a141019a/" class="icon alt fa-linkedin"><span class="label">LinkedIn</span></a></li>
+                
+                
+                <li><a href="https://github.com/jdiasn" class="icon alt fa-github"><span class="label">GitHub</span></a></li>
+                
+                
+                <li><a href="https://youtube.com/@jdiasn" class="icon alt fa-youtube"><span class="label">Youtube</span></a></li>
+                
+                
+                
+                
+            </ul>
+        </section>
+        
+    </section>
+</footer>
+
+                    
+<div id="copyright">
+    <ul><li>&copy; J.Dias</li><li>Design: <a href="https://html5up.net">HTML5 UP</a></li><li>Hugo Port: <a href="https://curtiscode.dev">curtiscode</a></li></ul>
+</div>
+
+
+            </div>
+            
+            
+
+
+
+
+
+
+
+
+
+
+<script src='/assets/js/bundle.js'></script>
+
+
+	</body>
+</html>
