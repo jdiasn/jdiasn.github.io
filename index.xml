@@ -4,7 +4,7 @@
     <title>J.Dias</title>
     <link>http://jdiasn.github.io/</link>
     <description>Recent content on J.Dias</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Wed, 04 Oct 2023 21:31:30 +0200</lastBuildDate>
     <atom:link href="http://jdiasn.github.io/index.xml" rel="self" type="application/rss+xml" />
@@ -27,8 +27,7 @@
       <link>http://jdiasn.github.io/test/</link>
       <pubDate>Sun, 21 May 2023 23:06:03 +0200</pubDate>
       <guid>http://jdiasn.github.io/test/</guid>
-      <description>Introduction This is bold text, and this is emphasized text.
-Visit the Hugo website!</description>
+      <description>Introduction This is bold text, and this is emphasized text.&#xA;Visit the Hugo website!</description>
     </item>
     <item>
       <title>2nd Best talk at the Radar Conference in Japan</title>
@@ -49,16 +48,14 @@ Visit the Hugo website!</description>
       <link>http://jdiasn.github.io/post/photo/</link>
       <pubDate>Mon, 04 Jul 2016 21:31:30 +0200</pubDate>
       <guid>http://jdiasn.github.io/post/photo/</guid>
-      <description>In 2007 I bought my first camera (an Olympus E-volt 500). It was as very good investment. After that moment, I started to be in contact with the amazing world of photography and learn about it. Unfortunately, that camera broke. Currently, I&amp;rsquo;m using a Nikon D-5100 - which is as good as my first camera.
-Since I begun this new hobby I have been taking photos of different things. I believe that my best picture is that one below.</description>
+      <description>In 2007 I bought my first camera (an Olympus E-volt 500). It was as very good investment. After that moment, I started to be in contact with the amazing world of photography and learn about it. Unfortunately, that camera broke. Currently, I&amp;rsquo;m using a Nikon D-5100 - which is as good as my first camera.&#xA;Since I begun this new hobby I have been taking photos of different things. I believe that my best picture is that one below.</description>
     </item>
     <item>
       <title>PIRATA Project 2013</title>
       <link>http://jdiasn.github.io/post/post.pirata/</link>
       <pubDate>Sun, 03 Jul 2016 23:37:54 +0200</pubDate>
       <guid>http://jdiasn.github.io/post/post.pirata/</guid>
-      <description>In 2013, I had opportunity to participate on the scientific team of a PIRATA cruise aboard R/V OCEAN STALWART. Our main activity was to maintain nine oceanic buoys from that project. Between each buoy, we measured atmospheric and oceanic variables. The instruments used for those measurements were: atmospheric balloon soundings, expendable current profilers (XCP), and UnderwayCTDs. I performed some of this measurements using these sensors.
-The picture above shows the moment in which I&amp;rsquo;m disassembling the buoy somewhere in the middle of the Atlantic Ocean (more pictures).</description>
+      <description>In 2013, I had opportunity to participate on the scientific team of a PIRATA cruise aboard R/V OCEAN STALWART. Our main activity was to maintain nine oceanic buoys from that project. Between each buoy, we measured atmospheric and oceanic variables. The instruments used for those measurements were: atmospheric balloon soundings, expendable current profilers (XCP), and UnderwayCTDs. I performed some of this measurements using these sensors.&#xA;The picture above shows the moment in which I&amp;rsquo;m disassembling the buoy somewhere in the middle of the Atlantic Ocean (more pictures).</description>
     </item>
     <item>
       <title></title>
