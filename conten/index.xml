@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Contens on J.Dias</title>
-    <link>http://jdiasn.github.io/conten/</link>
+    <link>http://localhost:1313/conten/</link>
     <description>Recent content in Contens on J.Dias</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Thu, 25 May 2023 23:37:41 +0200</lastBuildDate>
-    <atom:link href="http://jdiasn.github.io/conten/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/conten/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Post.pirata</title>
-      <link>http://jdiasn.github.io/conten/post/post.pirata/</link>
+      <link>http://localhost:1313/conten/post/post.pirata/</link>
       <pubDate>Thu, 25 May 2023 23:37:41 +0200</pubDate>
-      <guid>http://jdiasn.github.io/conten/post/post.pirata/</guid>
+      <guid>http://localhost:1313/conten/post/post.pirata/</guid>
       <description></description>
     </item>
   </channel>

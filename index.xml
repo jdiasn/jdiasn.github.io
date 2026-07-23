@@ -6,8 +6,15 @@
     <description>Recent content on J.Dias</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 09 Oct 2024 14:38:30 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 09 Feb 2026 14:38:30 +0200</lastBuildDate>
     <atom:link href="http://jdiasn.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Modular weather station based on Raspberry Pi</title>
+      <link>http://jdiasn.github.io/post/station/</link>
+      <pubDate>Mon, 09 Feb 2026 14:38:30 +0200</pubDate>
+      <guid>http://jdiasn.github.io/post/station/</guid>
+      <description>After my PostDoc ended, it took about 1 year to get my current position at TU Delft (Data Manager for the Ruisdael project). While unemployed, I decided to start monitoring weather conditions in my garden, and for this I used a Raspberry Pi to log the data. For measuring the environmental variables, I chose an integrated sensor (BME680) that measures temperature, pressure, humidity and volatile organic compounds. I also wanted to be able to see the current measurement for practical reasons.</description>
+    </item>
     <item>
       <title>Observing winds at the edge of the ITCZ</title>
       <link>http://jdiasn.github.io/post/wind/</link>

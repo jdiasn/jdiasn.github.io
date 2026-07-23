@@ -3,19 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://jdiasn.github.io/</loc>
-    <lastmod>2024-10-09T14:38:30+02:00</lastmod>
+    <lastmod>2026-02-09T14:38:30+02:00</lastmod>
+  </url><url>
+    <loc>http://jdiasn.github.io/post/station/</loc>
+    <lastmod>2026-02-09T14:38:30+02:00</lastmod>
   </url><url>
     <loc>http://jdiasn.github.io/post/wind/</loc>
     <lastmod>2024-10-09T14:38:30+02:00</lastmod>
   </url><url>
-    <loc>http://jdiasn.github.io/post/</loc>
-    <lastmod>2024-10-09T14:38:30+02:00</lastmod>
-  </url><url>
     <loc>http://jdiasn.github.io/post/bike/</loc>
     <lastmod>2023-10-04T21:31:30+02:00</lastmod>
-  </url><url>
-    <loc>http://jdiasn.github.io/conten/</loc>
-    <lastmod>2023-05-25T23:37:41+02:00</lastmod>
   </url><url>
     <loc>http://jdiasn.github.io/conten/post/post.pirata/</loc>
     <lastmod>2023-05-25T23:37:41+02:00</lastmod>
@@ -27,9 +24,6 @@
     <lastmod>2019-10-20T23:20:03+02:00</lastmod>
   </url><url>
     <loc>http://jdiasn.github.io/research/test/</loc>
-    <lastmod>2019-10-20T23:20:03+02:00</lastmod>
-  </url><url>
-    <loc>http://jdiasn.github.io/research/</loc>
     <lastmod>2019-10-20T23:20:03+02:00</lastmod>
   </url><url>
     <loc>http://jdiasn.github.io/post/photo/</loc>
@@ -44,12 +38,8 @@
   </url><url>
     <loc>http://jdiasn.github.io/album/</loc>
   </url><url>
-    <loc>http://jdiasn.github.io/categories/</loc>
-  </url><url>
     <loc>http://jdiasn.github.io/generic-page/</loc>
   </url><url>
     <loc>http://jdiasn.github.io/generic-page/</loc>
-  </url><url>
-    <loc>http://jdiasn.github.io/tags/</loc>
   </url>
 </urlset>

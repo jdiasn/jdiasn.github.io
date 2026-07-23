@@ -1,0 +1,179 @@
+<!DOCTYPE HTML>
+
+<html lang='en'>
+	<head>
+		<title>Modular weather station based on Raspberry Pi &middot; J.Dias</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		
+		
+		
+		<link rel="stylesheet" href="/assets/css/main.min.css">
+		
+		
+		
+		<noscript><link rel="stylesheet" href='/assets/css/noscript.css' /></noscript>
+		
+	</head>
+
+	<body lang='en' class="is-preload">
+
+		
+			<div id="wrapper">
+
+                
+<header id="header">
+    <a href='/' class="logo">J.Dias</a>
+</header>
+
+                
+
+
+<nav id="nav">
+    <ul class="links">
+        <li class=""><a href='/'>J.Dias</a></li><li class=""><a href='/about'>About</a></li><li class=""><a href='/research'>Research</a></li><li class=""><a href='/#header'>Posts</a></li><li class=""><a href='/album'>Album</a></li>
+        
+    </ul>
+    
+    <ul class="icons">
+        
+        
+        
+        <li><a href="https://instagram.com/jose.dias.756/" class="icon fa-instagram"><span class="label">Instagram</span></a></li>
+        
+        
+        <li><a href="https://www.linkedin.com/in/jos%c3%a9-dias-4a141019a/" class="icon fa-linkedin"><span class="label">LinkedIn</span></a></li>
+        
+        
+        <li><a href="https://github.com/jdiasn" class="icon fa-github"><span class="label">GitHub</span></a></li>
+        
+        
+        <li><a href="https://youtube.com/@jdiasn" class="icon fa-youtube"><span class="label">Youtube</span></a></li>
+        
+        
+        
+        
+    </ul>
+    
+</nav>
+
+
+				
+					<div id="main">
+
+						
+                        <section class="post">
+                            <header class="major">
+                                
+                                <span class="date">February 9, 2026</span>
+                                
+                                <h1>Modular weather station based on Raspberry Pi</h1>
+                                <p></p>
+                            </header>
+                            
+                            <div class="image main"><img src="/images/station.jpg" alt="" /></div>
+                            
+                            <p>After my PostDoc ended, it took about 1 year to get my current position at TU Delft (Data Manager for the Ruisdael project). While unemployed, I decided to start monitoring weather conditions in my garden, and for this I used a Raspberry Pi to log the data. For measuring the environmental variables, I chose an integrated sensor (BME680) that measures temperature, pressure, humidity and volatile organic compounds. I also wanted to be able to see the current measurement for practical reasons. For example, what is the temperature outside? To quickly see the data in real time, I added a 16x2 LCD display to the project. Below is the prototyping setup.</p>
+<figure>
+  <img
+    src="/images/protFull.jpg"
+    alt=""
+    width="70% q75"
+    height="auto"/>
+  <figcaption></figcaption>
+</figure>
+
+
+<p>After a few months back at TUD, I began supporting a student&rsquo;s fieldwork course. One of the projects was to measure weather variables at different locations in Rotterdam. However, no instrument was available for this purpose, so I suggested using Raspberry Pis with low-cost sensors. In addition to BME680, this second version had 2 other sensors: a particle counter (SPS30) and a GPS (Whadda module).</p>
+<p>I used the initial version of the software from my garden station as a starting point for this project. The picture below shows the final version of the station hardware, which was idealised together with my colleague Rob.</p>
+<figure>
+  <img
+    src="/images/rob.jpg"
+    alt=""
+    width="70% q75"
+    height="auto"/>
+  <figcaption></figcaption>
+</figure>
+
+
+<p>This last version of the controlling software includes some addtional improvements over the original project. The station creates its own local Wi-Fi network, allowing users to connect with a smartphone or laptop. Once connected to the station network, the user can have access to a web-based real-time monitoring interface.  While connected, the user can also download all collected data. Below you can see how the web interface looks.</p>
+<figure>
+  <img
+    src="/images/print.png"
+    alt=""
+    width="70% q75"
+    height="auto"/>
+  <figcaption></figcaption>
+</figure>
+
+
+
+
+                            
+                            
+                            
+                            
+                            
+                        </section>
+
+					</div>
+
+                    
+
+<footer id="footer">
+    
+    <section class="split contact">
+        
+        
+        
+        
+        <section>
+            <h3>Social</h3>
+            <ul class="icons alt">
+                
+                
+                
+                <li><a href="https://instagram.com/jose.dias.756/" class="icon alt fa-instagram"><span class="label">Instagram</span></a></li>
+                
+                
+                <li><a href="https://www.linkedin.com/in/jos%c3%a9-dias-4a141019a/" class="icon alt fa-linkedin"><span class="label">LinkedIn</span></a></li>
+                
+                
+                <li><a href="https://github.com/jdiasn" class="icon alt fa-github"><span class="label">GitHub</span></a></li>
+                
+                
+                <li><a href="https://youtube.com/@jdiasn" class="icon alt fa-youtube"><span class="label">Youtube</span></a></li>
+                
+                
+                
+                
+            </ul>
+        </section>
+        
+    </section>
+</footer>
+
+                    
+<div id="copyright">
+    <ul><li>&copy; J.Dias</li><li>Design: <a href="https://html5up.net">HTML5 UP</a></li><li>Hugo Port: <a href="https://curtiscode.dev">curtiscode</a></li></ul>
+</div>
+
+
+            </div>
+            
+            
+
+
+
+
+
+
+
+
+
+
+<script src='/assets/js/bundle.js'></script>
+
+
+	</body>
+</html>
